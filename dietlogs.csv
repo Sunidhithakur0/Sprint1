@@ -1,0 +1,1001 @@
+diet_id,user_id,meal_type,food_items,calories_intake,meal_date
+1,1,Snack,"Mutton Rogan Josh, Cereal",930,29-05-2025
+2,2,Snack,"Coffee, Spaghetti Bolognese",1111,23-05-2025
+3,3,Breakfast,"Porridge, Fried Rice, Pad Thai, Green Tea",1183,22-05-2025
+4,4,Dinner,"Idli, Fried Rice, Spring Rolls, Upma, Muesli",427,24-05-2025
+5,5,Breakfast,"Pho, Burrito, Pad Thai",866,08-06-2025
+6,6,Lunch,"Caesar Salad, Hot Dog",860,24-05-2025
+7,7,Dinner,"Poha, Idli, Dal Tadka, Rajma Chawal",276,28-05-2025
+8,8,Breakfast,"Smoothie Bowl, Ramen",469,06-06-2025
+9,9,Dinner,"Burger, Scrambled Egg, Green Tea, Fried Rice",544,02-06-2025
+10,10,Dinner,"Butter Naan, Hot Dog, Burrito, Pad Thai, Ramen",794,14-06-2025
+11,11,Lunch,"Sambar Rice, Muesli",661,31-05-2025
+12,12,Breakfast,"Caesar Salad, Vada, Chicken Wrap, Masala Dosa",145,29-05-2025
+13,13,Breakfast,"Green Curry, Bibimbap, Tacos",180,04-06-2025
+14,14,Breakfast,"Ramen, Caesar Salad, Scrambled Egg",1081,23-05-2025
+15,15,Breakfast,"Rajma Chawal, Nachos, Tandoori Chicken, Chicken Curry",210,13-06-2025
+16,16,Snack,"Sambar Rice, Coffee, French Fries, Omelette",1024,28-05-2025
+17,17,Dinner,"Yogurt, Omelette, Grilled Chicken, Fried Rice",289,28-05-2025
+18,18,Lunch,"Chicken Wrap, Cereal, Grilled Chicken",303,06-06-2025
+19,19,Snack,"Caesar Salad, Green Tea, Grilled Chicken",959,21-05-2025
+20,20,Lunch,"Mac and Cheese, Cereal, Pad Thai, Poha",360,05-06-2025
+21,21,Breakfast,"Rajma Chawal, Green Tea",579,11-06-2025
+22,22,Snack,"Grilled Chicken, Greek Salad",418,27-05-2025
+23,23,Snack,"Vada, Milkshake, Lemon Rice, Scrambled Egg, French Fries",1133,14-06-2025
+24,24,Dinner,"Masala Dosa, Green Tea",1195,01-06-2025
+25,25,Lunch,"Pho, Beef Steak, Spaghetti Bolognese",962,09-06-2025
+26,26,Lunch,"Green Tea, Lamb Chops, Milkshake, Smoothie Bowl",424,31-05-2025
+27,27,Snack,"Grilled Chicken, Dal Tadka, Masala Dosa, Chicken Wrap, Beef Steak",227,29-05-2025
+28,28,Dinner,"Lemon Rice, Manchurian, Burger, Kadhi Pakora, Tandoori Chicken",722,25-05-2025
+29,29,Breakfast,"Pasta Alfredo, Lamb Chops, Masala Dosa, Ramen",230,17-05-2025
+30,30,Dinner,"Vada, Green Tea, Tandoori Chicken, Mac and Cheese",928,23-05-2025
+31,31,Lunch,"Fruit Salad, Manchurian",300,15-06-2025
+32,32,Dinner,"Dal Tadka, Spring Rolls, Pav Bhaji, Chicken Curry",804,02-06-2025
+33,33,Snack,"Smoothie Bowl, Buttermilk, Milkshake",122,30-05-2025
+34,34,Lunch,"Cereal, Tempura, Bibimbap, Buttermilk, Fried Rice",109,13-06-2025
+35,35,Lunch,"Greek Salad, Bibimbap, Chole Bhature",794,04-06-2025
+36,36,Lunch,"Green Tea, Cereal",212,15-06-2025
+37,37,Dinner,"Burger, Boiled Egg, Hot Dog, Green Tea",1183,27-05-2025
+38,38,Snack,"Biryani, Dal Tadka, Cereal, Spaghetti Bolognese, Chicken Curry",1181,23-05-2025
+39,39,Dinner,"Pav Bhaji, Bibimbap",205,13-06-2025
+40,40,Snack,"Pho, Chole Bhature, Kadhi Pakora, Lamb Chops",257,21-05-2025
+41,41,Snack,"Smoothie Bowl, Chicken Curry, Manchurian, Caesar Salad, Fried Rice",1112,09-06-2025
+42,42,Dinner,"Yogurt, Lassi, Tacos",922,03-06-2025
+43,43,Breakfast,"Caesar Salad, Tom Yum Soup, Spring Rolls",1200,15-06-2025
+44,44,Lunch,"Palak Paneer, Omelette",767,14-06-2025
+45,45,Snack,"Milkshake, Sambar Rice, Kadhi Pakora, Idli",1066,05-06-2025
+46,46,Snack,"Green Curry, Muesli, Chicken Curry",987,18-05-2025
+47,47,Snack,"Cereal, Kadhi Pakora, Palak Paneer, Aloo Paratha, Greek Salad",530,17-05-2025
+48,48,Lunch,"Quesadilla, Upma, Manchurian, Kadhi Pakora, Ramen",796,31-05-2025
+49,49,Breakfast,"Lamb Chops, Chicken Curry, Kadhi Pakora",569,10-06-2025
+50,50,Breakfast,"Spaghetti Bolognese, Biryani",162,19-05-2025
+51,51,Snack,"Grilled Chicken, Chole Bhature, Pizza, Tandoori Chicken",528,29-05-2025
+52,52,Dinner,"Fried Rice, Ramen",591,19-05-2025
+53,53,Dinner,"Tandoori Chicken, Vada, Burrito",702,26-05-2025
+54,54,Breakfast,"Omelette, Bibimbap, Quesadilla",497,17-05-2025
+55,55,Lunch,"Milkshake, Chicken Curry, Spaghetti Bolognese, Chicken Wrap, Dal Tadka",145,26-05-2025
+56,56,Lunch,"Hakka Noodles, Idli, Tempura",1075,01-06-2025
+57,57,Dinner,"Chole Bhature, Poha",566,23-05-2025
+58,58,Breakfast,"Tacos, Caesar Salad",1020,09-06-2025
+59,59,Snack,"Burrito, Cereal, Pad Thai, Caesar Salad, Quesadilla",1007,18-05-2025
+60,60,Breakfast,"Spaghetti Bolognese, Lamb Chops",270,23-05-2025
+61,61,Snack,"Quesadilla, Fruit Salad, Muesli, Spaghetti Bolognese",486,24-05-2025
+62,62,Breakfast,"Mac and Cheese, Fish and Chips",538,29-05-2025
+63,63,Dinner,"Cereal, Green Tea, Biryani, Grilled Chicken",498,08-06-2025
+64,64,Lunch,"Buttermilk, Spring Rolls, Manchurian, Omelette",699,27-05-2025
+65,65,Snack,"Tom Yum Soup, Mutton Rogan Josh, Yogurt, Lemon Rice",1089,06-06-2025
+66,66,Snack,"Pizza, Hakka Noodles, Ramen, Tempura",975,13-06-2025
+67,67,Snack,"Nachos, Upma, Fried Rice, Pho",107,20-05-2025
+68,68,Breakfast,"Veg Sandwich, Chicken Curry, Cereal",575,11-06-2025
+69,69,Lunch,"Yogurt, Sushi, Paneer Butter Masala",285,03-06-2025
+70,70,Dinner,"Masala Dosa, Cereal, Nachos, Quesadilla",507,08-06-2025
+71,71,Lunch,"Tandoori Chicken, Chole Bhature, Spaghetti Bolognese",805,04-06-2025
+72,72,Snack,"Masala Dosa, Lemon Rice, Poha, Muesli",1118,29-05-2025
+73,73,Breakfast,"Kadhi Pakora, Nachos, Chicken Wrap, Sushi",622,19-05-2025
+74,74,Snack,"Ramen, Green Curry",237,21-05-2025
+75,75,Lunch,"Tacos, Manchurian",282,22-05-2025
+76,76,Snack,"Burger, Hakka Noodles, Bibimbap, Sushi, Lemon Rice",587,22-05-2025
+77,77,Lunch,"Scrambled Egg, Dal Tadka, Omelette, Boiled Egg, Mutton Rogan Josh",273,21-05-2025
+78,78,Breakfast,"Sushi, Green Tea, Quesadilla",850,23-05-2025
+79,79,Lunch,"Burrito, Fried Rice, Upma, French Fries, Buttermilk",690,02-06-2025
+80,80,Lunch,"Mutton Rogan Josh, Greek Salad, Pasta Alfredo, Vada",679,09-06-2025
+81,81,Snack,"Grilled Chicken, Fried Rice, Omelette, Smoothie Bowl",892,09-06-2025
+82,82,Lunch,"Milkshake, Lassi, Quesadilla, Green Tea",994,11-06-2025
+83,83,Lunch,"Pav Bhaji, Butter Naan",1062,20-05-2025
+84,84,Lunch,"Greek Salad, Manchurian",974,10-06-2025
+85,85,Lunch,"Ramen, Yogurt, Grilled Chicken, Lamb Chops",637,22-05-2025
+86,86,Lunch,"Chicken Wrap, Dal Tadka, Hakka Noodles, Hot Dog",359,19-05-2025
+87,87,Dinner,"Tacos, Nachos, Quesadilla, Spring Rolls",373,25-05-2025
+88,88,Dinner,"Chicken Wrap, Nachos, Caesar Salad, Scrambled Egg",987,03-06-2025
+89,89,Breakfast,"Tandoori Chicken, Butter Naan, Buttermilk, Greek Salad",650,18-05-2025
+90,90,Snack,"Boiled Egg, Omelette, Quesadilla",726,23-05-2025
+91,91,Breakfast,"Quesadilla, Idli",940,28-05-2025
+92,92,Snack,"Biryani, Coffee, Greek Salad",116,10-06-2025
+93,93,Dinner,"Veg Sandwich, Lemon Rice",453,28-05-2025
+94,94,Snack,"Tacos, Protein Shake, Tandoori Chicken, Boiled Egg, Sambar Rice",258,29-05-2025
+95,95,Lunch,"Green Curry, Vada, Pad Thai",610,28-05-2025
+96,96,Breakfast,"Paneer Butter Masala, Pizza, Hot Dog, Burger",235,19-05-2025
+97,97,Breakfast,"Nachos, Chicken Curry, Green Curry, Veg Sandwich",776,12-06-2025
+98,98,Dinner,"Bibimbap, Burrito, Fish and Chips",1116,13-06-2025
+99,99,Breakfast,"Fish and Chips, Grilled Chicken, Lassi",1182,07-06-2025
+100,100,Snack,"Tempura, Paneer Butter Masala, Spaghetti Bolognese, Smoothie Bowl",1086,28-05-2025
+101,101,Breakfast,"Hot Dog, Upma, Chicken Wrap, Grilled Chicken, Greek Salad",152,30-05-2025
+102,102,Breakfast,"Lemon Rice, Omelette",228,26-05-2025
+103,103,Breakfast,"Vada, Porridge",325,05-06-2025
+104,104,Breakfast,"Manchurian, Lemon Rice",244,05-06-2025
+105,105,Snack,"Biryani, Smoothie Bowl",221,26-05-2025
+106,106,Snack,"Quesadilla, Fish and Chips, Pho",622,12-06-2025
+107,107,Dinner,"Kadhi Pakora, Tempura, Poha",536,07-06-2025
+108,108,Snack,"Idli, Sushi, Greek Salad, French Fries, Yogurt",1137,23-05-2025
+109,109,Dinner,"Chicken Wrap, Spaghetti Bolognese, Lassi, Aloo Paratha",846,10-06-2025
+110,110,Lunch,"Tom Yum Soup, Fried Rice, Green Tea, Rajma Chawal",552,06-06-2025
+111,111,Lunch,"Dal Tadka, Cereal, Pizza, Poha, Chole Bhature",774,24-05-2025
+112,112,Snack,"Scrambled Egg, Smoothie Bowl, Aloo Paratha, Ramen, Quesadilla",871,25-05-2025
+113,113,Lunch,"Bibimbap, Mutton Rogan Josh, Fruit Salad, Cereal, Fish and Chips",260,08-06-2025
+114,114,Breakfast,"Ramen, Spring Rolls, Masala Dosa",1168,19-05-2025
+115,115,Snack,"Coffee, Tempura, Manchurian, Nachos",586,30-05-2025
+116,116,Snack,"Mac and Cheese, Fish and Chips, Spaghetti Bolognese, Tandoori Chicken",298,14-06-2025
+117,117,Breakfast,"Tacos, Palak Paneer, Green Tea, Aloo Paratha, French Fries",861,24-05-2025
+118,118,Breakfast,"Burrito, Milkshake",575,01-06-2025
+119,119,Dinner,"Masala Dosa, Grilled Chicken, Coffee",617,13-06-2025
+120,120,Snack,"Bibimbap, Biryani, Omelette",331,12-06-2025
+121,121,Dinner,"Mac and Cheese, Scrambled Egg, Tom Yum Soup",461,09-06-2025
+122,122,Lunch,"Ramen, French Fries, Fish and Chips, Protein Shake",787,01-06-2025
+123,123,Breakfast,"Grilled Chicken, Spring Rolls",132,13-06-2025
+124,124,Lunch,"Chicken Curry, Mutton Rogan Josh, Boiled Egg, Dal Tadka, Buttermilk",275,24-05-2025
+125,125,Dinner,"Grilled Chicken, Smoothie Bowl, Aloo Paratha, Caesar Salad",791,12-06-2025
+126,126,Dinner,"Fruit Salad, Idli, Greek Salad",728,29-05-2025
+127,127,Snack,"Chicken Wrap, Fruit Salad, Poha, Pasta Alfredo, Manchurian",420,05-06-2025
+128,128,Snack,"Quesadilla, Fried Rice, Scrambled Egg, Tacos, Greek Salad",919,04-06-2025
+129,129,Snack,"Green Curry, Lamb Chops, Dal Tadka, Biryani, Veg Sandwich",669,25-05-2025
+130,130,Lunch,"Fruit Salad, Lemon Rice, Sambar Rice, Upma",327,06-06-2025
+131,131,Lunch,"Kadhi Pakora, Upma, Aloo Paratha",369,04-06-2025
+132,132,Breakfast,"Muesli, Tom Yum Soup, Sambar Rice, Poha, Tempura",1024,15-06-2025
+133,133,Snack,"Veg Sandwich, Kadhi Pakora, Biryani, Spring Rolls, Boiled Egg",866,06-06-2025
+134,134,Snack,"Pizza, Tacos, Spring Rolls",551,30-05-2025
+135,135,Snack,"Sushi, Green Tea, Biryani, Cereal",518,28-05-2025
+136,136,Breakfast,"Biryani, Dal Tadka, Mutton Rogan Josh, Sushi, Grilled Chicken",754,12-06-2025
+137,137,Dinner,"Mac and Cheese, Buttermilk, Hot Dog, Tandoori Chicken, Burger",285,27-05-2025
+138,138,Lunch,"Biryani, Boiled Egg, Pizza, Protein Shake, Bibimbap",318,06-06-2025
+139,139,Dinner,"Upma, Grilled Chicken, Sambar Rice, Hakka Noodles",1016,06-06-2025
+140,140,Breakfast,"Mutton Rogan Josh, Tom Yum Soup, Nachos, Green Curry, Pad Thai",582,14-06-2025
+141,141,Lunch,"Boiled Egg, Palak Paneer",251,22-05-2025
+142,142,Dinner,"Biryani, Hot Dog, Spring Rolls, Lassi",1090,05-06-2025
+143,143,Lunch,"Quesadilla, Milkshake, Kadhi Pakora, Chicken Curry",967,22-05-2025
+144,144,Dinner,"Hot Dog, Yogurt",130,05-06-2025
+145,145,Lunch,"Sushi, Caesar Salad",1149,05-06-2025
+146,146,Breakfast,"Mac and Cheese, Yogurt",189,08-06-2025
+147,147,Dinner,"Hakka Noodles, Biryani",1059,11-06-2025
+148,148,Lunch,"Mac and Cheese, Beef Steak, Tom Yum Soup",245,23-05-2025
+149,149,Lunch,"Mutton Rogan Josh, Burrito, Cereal, Pho",606,11-06-2025
+150,150,Lunch,"Butter Naan, Omelette",1132,27-05-2025
+151,151,Breakfast,"Burger, Palak Paneer, Green Curry",1112,28-05-2025
+152,152,Lunch,"Burger, Pav Bhaji, Ramen, Pasta Alfredo, Sambar Rice",558,20-05-2025
+153,153,Lunch,"Green Curry, Pizza, French Fries",985,01-06-2025
+154,154,Lunch,"Chicken Curry, Green Curry",1162,17-05-2025
+155,155,Dinner,"Hot Dog, Idli",231,26-05-2025
+156,156,Snack,"Spring Rolls, Coffee, Beef Steak, Boiled Egg",506,06-06-2025
+157,157,Lunch,"Green Curry, Butter Naan",510,08-06-2025
+158,158,Dinner,"Yogurt, Pasta Alfredo, Pad Thai",1086,22-05-2025
+159,159,Dinner,"Green Tea, French Fries, Lemon Rice, Chole Bhature",528,09-06-2025
+160,160,Lunch,"Bibimbap, Spaghetti Bolognese, Pizza, Pasta Alfredo, Lassi",226,30-05-2025
+161,161,Snack,"Chicken Wrap, Protein Shake, Nachos, Quesadilla, Tacos",445,23-05-2025
+162,162,Breakfast,"Green Curry, Quesadilla, Scrambled Egg, Burrito, Porridge",627,08-06-2025
+163,163,Breakfast,"Butter Naan, Sushi, Milkshake",558,08-06-2025
+164,164,Snack,"Mutton Rogan Josh, Greek Salad, Manchurian, Spring Rolls, Muesli",285,31-05-2025
+165,165,Lunch,"Mutton Rogan Josh, Pho",540,01-06-2025
+166,166,Breakfast,"Biryani, Sambar Rice",775,04-06-2025
+167,167,Breakfast,"Protein Shake, Beef Steak, Spring Rolls, Fried Rice, Aloo Paratha",664,04-06-2025
+168,168,Breakfast,"Smoothie Bowl, Paneer Butter Masala, Spring Rolls",494,08-06-2025
+169,169,Snack,"Cereal, Milkshake",874,09-06-2025
+170,170,Snack,"Lemon Rice, Green Tea, Sambar Rice, Vada",1161,23-05-2025
+171,171,Snack,"Caesar Salad, Sushi",539,17-05-2025
+172,172,Snack,"Dal Tadka, Biryani, Bibimbap",610,20-05-2025
+173,173,Dinner,"Boiled Egg, Tom Yum Soup, Tempura, Pav Bhaji, Muesli",115,26-05-2025
+174,174,Snack,"Coffee, Biryani, Poha, Sambar Rice",246,03-06-2025
+175,175,Breakfast,"Muesli, Palak Paneer, Nachos",238,14-06-2025
+176,176,Lunch,"Grilled Chicken, Spring Rolls, Tom Yum Soup, Butter Naan, Pho",709,29-05-2025
+177,177,Breakfast,"Tempura, Greek Salad, Chicken Wrap, Pad Thai, Pasta Alfredo",570,28-05-2025
+178,178,Lunch,"Porridge, Pasta Alfredo",535,02-06-2025
+179,179,Dinner,"Mutton Rogan Josh, Pav Bhaji, Tandoori Chicken",994,14-06-2025
+180,180,Breakfast,"Chicken Curry, Pizza, Manchurian, Idli",550,03-06-2025
+181,181,Snack,"Burger, Masala Dosa, Kadhi Pakora",243,25-05-2025
+182,182,Snack,"Fried Rice, Pasta Alfredo, Burger, Cereal",613,08-06-2025
+183,183,Lunch,"Lassi, Masala Dosa, Ramen",353,15-06-2025
+184,184,Dinner,"Quesadilla, Pho, Nachos, Poha, Fruit Salad",564,09-06-2025
+185,185,Lunch,"Vada, Coffee, Pad Thai, Grilled Chicken, Caesar Salad",1178,28-05-2025
+186,186,Lunch,"French Fries, Lassi",145,22-05-2025
+187,187,Dinner,"Omelette, Mac and Cheese, Butter Naan, Ramen, Upma",1077,30-05-2025
+188,188,Lunch,"Fruit Salad, Palak Paneer, Paneer Butter Masala, Rajma Chawal, Sushi",1077,20-05-2025
+189,189,Lunch,"Tempura, Green Curry, Tacos, Porridge, Green Tea",261,20-05-2025
+190,190,Snack,"Tandoori Chicken, Lassi, Fried Rice, Palak Paneer",483,30-05-2025
+191,191,Breakfast,"Yogurt, Lamb Chops, Quesadilla",288,11-06-2025
+192,192,Breakfast,"Palak Paneer, Idli, Tom Yum Soup",840,07-06-2025
+193,193,Snack,"Dal Tadka, Paneer Butter Masala",182,29-05-2025
+194,194,Snack,"Nachos, Milkshake, Cereal, Lassi",578,14-06-2025
+195,195,Dinner,"Greek Salad, Green Curry, Milkshake, Tacos, Coffee",664,22-05-2025
+196,196,Lunch,"Aloo Paratha, Upma, Tandoori Chicken, Pasta Alfredo",376,24-05-2025
+197,197,Breakfast,"Vada, Dal Tadka, Masala Dosa, Hakka Noodles",696,25-05-2025
+198,198,Lunch,"Protein Shake, Scrambled Egg, French Fries",214,03-06-2025
+199,199,Breakfast,"Palak Paneer, Beef Steak, Pho",900,12-06-2025
+200,200,Lunch,"Lemon Rice, Tacos, Chole Bhature, Nachos",878,28-05-2025
+201,201,Dinner,"Pasta Alfredo, Protein Shake",122,10-06-2025
+202,202,Lunch,"Bibimbap, Buttermilk, Rajma Chawal",213,14-06-2025
+203,203,Snack,"Chicken Wrap, Paneer Butter Masala",961,31-05-2025
+204,204,Snack,"Pad Thai, Greek Salad, Green Tea, Chicken Wrap, Spaghetti Bolognese",782,12-06-2025
+205,205,Breakfast,"Spaghetti Bolognese, Paneer Butter Masala, Pasta Alfredo",986,12-06-2025
+206,206,Lunch,"Spaghetti Bolognese, Paneer Butter Masala, Aloo Paratha, Coffee",1000,31-05-2025
+207,207,Lunch,"Tandoori Chicken, Chicken Curry, Chole Bhature, Lemon Rice, Bibimbap",361,22-05-2025
+208,208,Breakfast,"Tempura, Green Tea, Fish and Chips",126,19-05-2025
+209,209,Lunch,"Nachos, Mac and Cheese, Quesadilla, Chole Bhature",224,24-05-2025
+210,210,Dinner,"Dal Tadka, Cereal",300,30-05-2025
+211,211,Snack,"Biryani, Cereal",746,17-05-2025
+212,212,Lunch,"Beef Steak, Lassi, Burger",785,26-05-2025
+213,213,Lunch,"Green Curry, Biryani, Paneer Butter Masala",938,31-05-2025
+214,214,Snack,"Scrambled Egg, Fruit Salad",1140,27-05-2025
+215,215,Dinner,"Beef Steak, Lassi, French Fries, Chicken Curry",773,08-06-2025
+216,216,Snack,"Fish and Chips, Sushi, Tacos, Rajma Chawal, Yogurt",349,03-06-2025
+217,217,Lunch,"French Fries, Palak Paneer, Fish and Chips, Vada, Rajma Chawal",993,01-06-2025
+218,218,Lunch,"Pad Thai, Pizza, Ramen, Lassi",522,05-06-2025
+219,219,Lunch,"Coffee, Paneer Butter Masala",101,03-06-2025
+220,220,Lunch,"Muesli, Quesadilla, Tandoori Chicken, Tempura",457,29-05-2025
+221,221,Dinner,"Upma, Nachos, Veg Sandwich, Protein Shake, Chicken Wrap",207,21-05-2025
+222,222,Breakfast,"Manchurian, Grilled Chicken",411,03-06-2025
+223,223,Snack,"Lassi, Mac and Cheese, Caesar Salad, Burrito",283,18-05-2025
+224,224,Snack,"Tacos, Palak Paneer",1026,18-05-2025
+225,225,Snack,"Protein Shake, Pho, Chicken Curry",773,27-05-2025
+226,226,Snack,"Palak Paneer, Pizza, Mac and Cheese, Pav Bhaji",1089,23-05-2025
+227,227,Breakfast,"Protein Shake, Tom Yum Soup, Pizza",238,08-06-2025
+228,228,Lunch,"Coffee, Dal Tadka",956,21-05-2025
+229,229,Lunch,"Masala Dosa, Fish and Chips",583,30-05-2025
+230,230,Dinner,"Boiled Egg, Chicken Curry, Burger, Pav Bhaji",997,06-06-2025
+231,231,Dinner,"Pasta Alfredo, Protein Shake, Caesar Salad, Boiled Egg, Fish and Chips",1172,29-05-2025
+232,232,Lunch,"Idli, Vada, Lemon Rice",1097,10-06-2025
+233,233,Lunch,"Hakka Noodles, Smoothie Bowl",167,20-05-2025
+234,234,Lunch,"Lassi, Pho",252,22-05-2025
+235,235,Lunch,"Butter Naan, Pav Bhaji, Rajma Chawal, Chicken Wrap, Pizza",641,25-05-2025
+236,236,Snack,"Nachos, Scrambled Egg, Chicken Wrap, Ramen, Idli",901,27-05-2025
+237,237,Lunch,"Mutton Rogan Josh, Aloo Paratha, Paneer Butter Masala",158,02-06-2025
+238,238,Dinner,"Chole Bhature, Poha, Spaghetti Bolognese, Manchurian",319,22-05-2025
+239,239,Lunch,"Manchurian, Nachos, Spaghetti Bolognese, Fruit Salad, Lamb Chops",1049,02-06-2025
+240,240,Breakfast,"Muesli, Beef Steak, Chicken Wrap, Chicken Curry, Milkshake",109,07-06-2025
+241,241,Dinner,"French Fries, Coffee, Pasta Alfredo",277,05-06-2025
+242,242,Dinner,"Protein Shake, Butter Naan, Manchurian",319,10-06-2025
+243,243,Snack,"Burger, Green Curry, Burrito",271,19-05-2025
+244,244,Snack,"Biryani, Spring Rolls",726,06-06-2025
+245,245,Breakfast,"Fruit Salad, Chole Bhature, Palak Paneer, Burger, Tom Yum Soup",427,07-06-2025
+246,246,Breakfast,"Milkshake, Green Tea, Quesadilla, Bibimbap, Sambar Rice",418,10-06-2025
+247,247,Snack,"Smoothie Bowl, Veg Sandwich",357,21-05-2025
+248,248,Lunch,"Burger, Buttermilk, Tacos, Lassi",719,19-05-2025
+249,249,Lunch,"French Fries, Smoothie Bowl",123,08-06-2025
+250,250,Breakfast,"Nachos, Poha, Tom Yum Soup, Hakka Noodles, Paneer Butter Masala",1049,05-06-2025
+251,251,Lunch,"Dal Tadka, Boiled Egg, Beef Steak",645,21-05-2025
+252,252,Lunch,"Manchurian, Mutton Rogan Josh",297,12-06-2025
+253,253,Lunch,"Chicken Wrap, Pasta Alfredo, Dal Tadka",443,07-06-2025
+254,254,Lunch,"Chicken Wrap, Spaghetti Bolognese, Yogurt, Fruit Salad",865,04-06-2025
+255,255,Breakfast,"Spring Rolls, Beef Steak, Burger, Dal Tadka",1082,08-06-2025
+256,256,Breakfast,"Yogurt, Omelette, Veg Sandwich, Dal Tadka, Ramen",790,04-06-2025
+257,257,Breakfast,"Butter Naan, French Fries, Tacos",235,27-05-2025
+258,258,Snack,"Lassi, Green Tea, Muesli, Coffee",739,18-05-2025
+259,259,Dinner,"Milkshake, Sambar Rice, Poha, Pizza, Mutton Rogan Josh",444,27-05-2025
+260,260,Snack,"Chole Bhature, Aloo Paratha",136,04-06-2025
+261,261,Dinner,"Smoothie Bowl, Biryani",690,22-05-2025
+262,262,Snack,"Buttermilk, Muesli, Masala Dosa, Grilled Chicken, Sambar Rice",447,22-05-2025
+263,263,Lunch,"Chole Bhature, French Fries",490,20-05-2025
+264,264,Snack,"Grilled Chicken, Kadhi Pakora",539,31-05-2025
+265,265,Lunch,"Chicken Curry, Scrambled Egg, Pasta Alfredo",832,14-06-2025
+266,266,Dinner,"Greek Salad, Cereal",1111,07-06-2025
+267,267,Snack,"Chole Bhature, Nachos, Grilled Chicken, Paneer Butter Masala",955,17-05-2025
+268,268,Dinner,"Smoothie Bowl, Green Curry, Manchurian, Kadhi Pakora",578,28-05-2025
+269,269,Lunch,"Tandoori Chicken, Greek Salad, Lemon Rice",1078,06-06-2025
+270,270,Breakfast,"Aloo Paratha, Fruit Salad, Chole Bhature",664,19-05-2025
+271,271,Breakfast,"Yogurt, Lemon Rice, Scrambled Egg",715,09-06-2025
+272,272,Lunch,"Masala Dosa, Burrito, Spring Rolls, Ramen, Mac and Cheese",1052,24-05-2025
+273,273,Lunch,"Buttermilk, Pho, Fish and Chips",171,30-05-2025
+274,274,Lunch,"Smoothie Bowl, Ramen, Green Curry, Tandoori Chicken, Caesar Salad",1045,09-06-2025
+275,275,Lunch,"Veg Sandwich, Milkshake",680,12-06-2025
+276,276,Lunch,"Spaghetti Bolognese, Mac and Cheese, Green Tea, Kadhi Pakora, Hot Dog",1155,19-05-2025
+277,277,Breakfast,"Tandoori Chicken, Smoothie Bowl, Green Tea",530,10-06-2025
+278,278,Snack,"Paneer Butter Masala, Milkshake, Fish and Chips, Burger, Cereal",457,12-06-2025
+279,279,Lunch,"Vada, Bibimbap",748,11-06-2025
+280,280,Snack,"Aloo Paratha, Paneer Butter Masala, Sushi",1008,09-06-2025
+281,281,Dinner,"Paneer Butter Masala, Fried Rice",342,28-05-2025
+282,282,Breakfast,"Burrito, Fish and Chips, Protein Shake",1055,26-05-2025
+283,283,Dinner,"Burrito, French Fries, Tempura, Smoothie Bowl",486,18-05-2025
+284,284,Breakfast,"Tacos, Lemon Rice, Hakka Noodles, Ramen",372,28-05-2025
+285,285,Dinner,"Chole Bhature, Veg Sandwich, Grilled Chicken",569,26-05-2025
+286,286,Dinner,"Tempura, Milkshake, Pasta Alfredo, Green Curry, Bibimbap",451,21-05-2025
+287,287,Dinner,"Aloo Paratha, Porridge, Chole Bhature, Hakka Noodles",682,14-06-2025
+288,288,Snack,"Scrambled Egg, Tom Yum Soup, Fruit Salad, Protein Shake",838,12-06-2025
+289,289,Snack,"Kadhi Pakora, Porridge, Rajma Chawal",577,10-06-2025
+290,290,Snack,"Poha, Greek Salad, Grilled Chicken",866,25-05-2025
+291,291,Dinner,"Porridge, Manchurian",206,20-05-2025
+292,292,Lunch,"Lemon Rice, Vada",736,29-05-2025
+293,293,Lunch,"Green Tea, Veg Sandwich",814,19-05-2025
+294,294,Snack,"Lassi, Boiled Egg, French Fries, Yogurt",254,27-05-2025
+295,295,Dinner,"Milkshake, Pizza, Porridge, Masala Dosa, Idli",236,04-06-2025
+296,296,Lunch,"Veg Sandwich, Tom Yum Soup, Upma",450,26-05-2025
+297,297,Dinner,"Spaghetti Bolognese, Upma, Pasta Alfredo, Fruit Salad",284,27-05-2025
+298,298,Snack,"Sushi, Mac and Cheese, Vada",991,26-05-2025
+299,299,Breakfast,"Paneer Butter Masala, Spaghetti Bolognese",114,10-06-2025
+300,300,Breakfast,"Sushi, Biryani",743,18-05-2025
+301,301,Dinner,"Paneer Butter Masala, Pasta Alfredo",650,10-06-2025
+302,302,Breakfast,"Butter Naan, Sambar Rice, Mutton Rogan Josh",917,04-06-2025
+303,303,Snack,"Dal Tadka, Pav Bhaji",1020,02-06-2025
+304,304,Breakfast,"Pav Bhaji, Burrito, Nachos, Butter Naan",113,06-06-2025
+305,305,Snack,"Buttermilk, Masala Dosa, Paneer Butter Masala, Omelette",808,17-05-2025
+306,306,Breakfast,"Tom Yum Soup, Mutton Rogan Josh, Smoothie Bowl, Scrambled Egg, Manchurian",415,11-06-2025
+307,307,Snack,"Ramen, Porridge, Bibimbap, Greek Salad",952,25-05-2025
+308,308,Breakfast,"Nachos, Paneer Butter Masala, Muesli",667,28-05-2025
+309,309,Dinner,"Butter Naan, Protein Shake",788,01-06-2025
+310,310,Dinner,"Poha, Lassi, Mutton Rogan Josh, Muesli",898,13-06-2025
+311,311,Breakfast,"Green Curry, Grilled Chicken, Buttermilk, French Fries, Chicken Curry",643,23-05-2025
+312,312,Lunch,"Caesar Salad, Smoothie Bowl",1023,01-06-2025
+313,313,Snack,"Burrito, Mutton Rogan Josh, Green Curry, Poha, Tom Yum Soup",953,15-06-2025
+314,314,Dinner,"Cereal, Milkshake, Tandoori Chicken",433,23-05-2025
+315,315,Breakfast,"Bibimbap, Pho, Paneer Butter Masala",177,05-06-2025
+316,316,Lunch,"Aloo Paratha, Ramen, Burger, Smoothie Bowl, Dal Tadka",786,21-05-2025
+317,317,Breakfast,"Fruit Salad, Kadhi Pakora, Hot Dog",1165,03-06-2025
+318,318,Breakfast,"Buttermilk, Nachos, Cereal, Mac and Cheese",555,30-05-2025
+319,319,Dinner,"Tempura, Biryani",249,02-06-2025
+320,320,Snack,"Pad Thai, Quesadilla",395,17-05-2025
+321,321,Breakfast,"Fried Rice, Sambar Rice, Idli, Bibimbap",971,23-05-2025
+322,322,Snack,"Sambar Rice, Mutton Rogan Josh, Upma, Smoothie Bowl, Quesadilla",556,13-06-2025
+323,323,Snack,"Dal Tadka, Bibimbap, Cereal, Protein Shake, Poha",765,22-05-2025
+324,324,Snack,"Chole Bhature, Pho, Lemon Rice, Smoothie Bowl",220,26-05-2025
+325,325,Dinner,"Protein Shake, Kadhi Pakora, Veg Sandwich, Chicken Curry",697,15-06-2025
+326,326,Snack,"Manchurian, Omelette, Pho, Muesli, Hot Dog",185,24-05-2025
+327,327,Dinner,"Green Tea, Nachos, Tempura, Bibimbap",316,03-06-2025
+328,328,Snack,"Manchurian, Chole Bhature, Masala Dosa, Hot Dog",738,29-05-2025
+329,329,Lunch,"Chicken Curry, Tom Yum Soup, Tempura, Tandoori Chicken, Smoothie Bowl",1011,17-05-2025
+330,330,Breakfast,"Upma, Buttermilk",530,05-06-2025
+331,331,Breakfast,"Lassi, Chicken Wrap, Cereal, Vada, Quesadilla",1148,01-06-2025
+332,332,Breakfast,"Butter Naan, Quesadilla, Mutton Rogan Josh, Lassi, Scrambled Egg",697,14-06-2025
+333,333,Lunch,"Spaghetti Bolognese, Pad Thai",516,15-06-2025
+334,334,Breakfast,"Muesli, French Fries",641,19-05-2025
+335,335,Breakfast,"Porridge, Bibimbap, Chicken Curry, Greek Salad, Beef Steak",752,03-06-2025
+336,336,Dinner,"Smoothie Bowl, Muesli",888,27-05-2025
+337,337,Snack,"Coffee, Porridge, Green Curry",642,20-05-2025
+338,338,Dinner,"Tacos, Greek Salad, Vada, Cereal, Mac and Cheese",848,13-06-2025
+339,339,Snack,"Coffee, Upma, Caesar Salad, Yogurt, Mac and Cheese",1172,19-05-2025
+340,340,Lunch,"Spring Rolls, Boiled Egg, Upma, Tempura, Chicken Wrap",283,01-06-2025
+341,341,Breakfast,"Protein Shake, Lamb Chops, Pizza, Ramen, Idli",553,23-05-2025
+342,342,Dinner,"Kadhi Pakora, Grilled Chicken, Dal Tadka, Pho",626,03-06-2025
+343,343,Snack,"Omelette, Coffee, Tandoori Chicken, Tempura",768,23-05-2025
+344,344,Breakfast,"Biryani, Omelette, Green Curry",841,11-06-2025
+345,345,Dinner,"Green Tea, French Fries, Caesar Salad, Green Curry, Milkshake",664,30-05-2025
+346,346,Snack,"Hakka Noodles, Poha",908,23-05-2025
+347,347,Dinner,"Lemon Rice, Fruit Salad, Scrambled Egg",696,10-06-2025
+348,348,Dinner,"Lassi, Hot Dog, Fruit Salad, Spaghetti Bolognese",1014,21-05-2025
+349,349,Dinner,"Pad Thai, Pav Bhaji, Omelette, Hot Dog, Pizza",575,08-06-2025
+350,350,Snack,"Pav Bhaji, Muesli, Lassi, Omelette, Upma",671,24-05-2025
+351,351,Breakfast,"Milkshake, Porridge, Dal Tadka, French Fries, Pho",200,11-06-2025
+352,352,Snack,"Chole Bhature, Porridge, Scrambled Egg, Lassi, Dal Tadka",356,24-05-2025
+353,353,Lunch,"Spring Rolls, Tom Yum Soup, Tandoori Chicken, Chole Bhature, Protein Shake",188,05-06-2025
+354,354,Breakfast,"Ramen, Lemon Rice, Cereal, Pasta Alfredo, Burger",713,06-06-2025
+355,355,Dinner,"Dal Tadka, Beef Steak, Biryani, Palak Paneer, Fruit Salad",537,01-06-2025
+356,356,Snack,"Idli, Milkshake",757,12-06-2025
+357,357,Lunch,"Coffee, Pizza, Nachos",953,02-06-2025
+358,358,Breakfast,"Grilled Chicken, Buttermilk",1053,24-05-2025
+359,359,Breakfast,"Chole Bhature, Pad Thai, Kadhi Pakora, Mutton Rogan Josh",1040,01-06-2025
+360,360,Lunch,"Green Tea, Fish and Chips, Lemon Rice, Dal Tadka",1053,06-06-2025
+361,361,Breakfast,"French Fries, Burrito, Mac and Cheese, Lassi, Nachos",828,29-05-2025
+362,362,Snack,"Upma, Coffee",745,01-06-2025
+363,363,Dinner,"Green Curry, Lassi, Idli",768,19-05-2025
+364,364,Lunch,"Sambar Rice, Muesli, Dal Tadka, Scrambled Egg",1109,24-05-2025
+365,365,Snack,"Chicken Curry, Smoothie Bowl, Pho, Butter Naan",586,09-06-2025
+366,366,Lunch,"Fruit Salad, Pizza",918,27-05-2025
+367,367,Breakfast,"Idli, Palak Paneer, Aloo Paratha, Tempura",248,22-05-2025
+368,368,Dinner,"Pav Bhaji, Veg Sandwich, Boiled Egg",948,09-06-2025
+369,369,Snack,"Buttermilk, Tandoori Chicken, Bibimbap",638,17-05-2025
+370,370,Snack,"Sushi, Sambar Rice, Omelette",488,18-05-2025
+371,371,Lunch,"Buttermilk, Aloo Paratha, Spring Rolls",978,18-05-2025
+372,372,Breakfast,"Rajma Chawal, Grilled Chicken, Palak Paneer, Quesadilla",1166,22-05-2025
+373,373,Lunch,"Fried Rice, Burrito",572,18-05-2025
+374,374,Dinner,"Boiled Egg, Dal Tadka, Milkshake, Pad Thai",692,25-05-2025
+375,375,Lunch,"Quesadilla, Pizza, Hakka Noodles, Idli, Lassi",432,25-05-2025
+376,376,Breakfast,"Green Curry, Smoothie Bowl, Fried Rice",904,13-06-2025
+377,377,Dinner,"Green Tea, Cereal, Quesadilla, Bibimbap, Tom Yum Soup",578,24-05-2025
+378,378,Lunch,"Idli, Fruit Salad, Kadhi Pakora, Mac and Cheese",1014,03-06-2025
+379,379,Breakfast,"Pav Bhaji, Pasta Alfredo",601,25-05-2025
+380,380,Dinner,"Lamb Chops, Biryani, Cereal",820,07-06-2025
+381,381,Snack,"Green Tea, Pho, Spring Rolls, French Fries",441,20-05-2025
+382,382,Breakfast,"Tacos, Green Curry",1191,27-05-2025
+383,383,Lunch,"Pizza, Tandoori Chicken",139,21-05-2025
+384,384,Snack,"Manchurian, Ramen",1056,26-05-2025
+385,385,Dinner,"Tandoori Chicken, Burger",230,24-05-2025
+386,386,Lunch,"Burger, Milkshake",942,30-05-2025
+387,387,Snack,"Fried Rice, Dal Tadka, Palak Paneer, Tandoori Chicken, Spaghetti Bolognese",781,14-06-2025
+388,388,Dinner,"Lemon Rice, Fruit Salad, Kadhi Pakora",1091,17-05-2025
+389,389,Lunch,"Rajma Chawal, Chole Bhature, Upma",984,23-05-2025
+390,390,Breakfast,"Lassi, Porridge, Omelette, Hot Dog, Milkshake",175,04-06-2025
+391,391,Snack,"Lamb Chops, Kadhi Pakora, Butter Naan, Yogurt",260,11-06-2025
+392,392,Breakfast,"Porridge, Omelette, French Fries, Protein Shake",348,28-05-2025
+393,393,Snack,"French Fries, Buttermilk, Beef Steak, Veg Sandwich",446,27-05-2025
+394,394,Lunch,"Buttermilk, Pizza",169,26-05-2025
+395,395,Breakfast,"Burrito, Green Tea",357,28-05-2025
+396,396,Breakfast,"Burrito, Muesli, Pav Bhaji, Butter Naan, Idli",1038,02-06-2025
+397,397,Breakfast,"Upma, Rajma Chawal",292,09-06-2025
+398,398,Snack,"Sushi, Grilled Chicken",833,17-05-2025
+399,399,Snack,"Green Tea, Boiled Egg, Greek Salad",600,22-05-2025
+400,400,Dinner,"Aloo Paratha, Tacos, Scrambled Egg, Pav Bhaji",196,23-05-2025
+401,401,Dinner,"Mac and Cheese, Beef Steak, Burrito, Aloo Paratha",811,04-06-2025
+402,402,Snack,"Chole Bhature, Sushi, Burrito, Manchurian",272,08-06-2025
+403,403,Breakfast,"Lemon Rice, Porridge, Poha",265,19-05-2025
+404,404,Lunch,"Scrambled Egg, Chicken Wrap, Pasta Alfredo",810,17-05-2025
+405,405,Snack,"Masala Dosa, Coffee, Burger",1161,20-05-2025
+406,406,Breakfast,"Pav Bhaji, Chole Bhature, Burger, Greek Salad, Pad Thai",819,30-05-2025
+407,407,Breakfast,"Veg Sandwich, Omelette, Smoothie Bowl, Yogurt, Cereal",1072,06-06-2025
+408,408,Snack,"Nachos, Tom Yum Soup, Burger, Hot Dog, Pad Thai",1057,15-06-2025
+409,409,Breakfast,"Nachos, Aloo Paratha, Hakka Noodles, Ramen",602,28-05-2025
+410,410,Breakfast,"Smoothie Bowl, Pav Bhaji, Bibimbap, Green Curry, Tandoori Chicken",974,29-05-2025
+411,411,Breakfast,"Hot Dog, Lamb Chops, Cereal, Scrambled Egg",958,12-06-2025
+412,412,Dinner,"Pho, Milkshake, Pasta Alfredo, Idli",1034,09-06-2025
+413,413,Lunch,"Green Tea, Sushi",190,13-06-2025
+414,414,Lunch,"Pav Bhaji, Paneer Butter Masala, Caesar Salad, Greek Salad, Porridge",130,24-05-2025
+415,415,Dinner,"Pav Bhaji, Chole Bhature, Butter Naan",1199,07-06-2025
+416,416,Lunch,"Cereal, Spaghetti Bolognese",318,10-06-2025
+417,417,Snack,"Chicken Wrap, Buttermilk, Hot Dog, Milkshake, Spring Rolls",686,25-05-2025
+418,418,Lunch,"Grilled Chicken, Lemon Rice, Pizza, Kadhi Pakora, Mutton Rogan Josh",384,24-05-2025
+419,419,Snack,"Green Curry, Upma, Omelette",534,13-06-2025
+420,420,Snack,"Cereal, Hakka Noodles, Vada",885,23-05-2025
+421,421,Dinner,"Buttermilk, Masala Dosa, Nachos, Sushi, Tandoori Chicken",1052,26-05-2025
+422,422,Snack,"French Fries, Spring Rolls, Lemon Rice",569,20-05-2025
+423,423,Breakfast,"Masala Dosa, Burger, Pasta Alfredo",1065,12-06-2025
+424,424,Dinner,"Mac and Cheese, Omelette",233,04-06-2025
+425,425,Dinner,"French Fries, Lemon Rice, Upma",650,24-05-2025
+426,426,Breakfast,"Fried Rice, Paneer Butter Masala, Upma",139,30-05-2025
+427,427,Snack,"Chicken Wrap, Hot Dog, Ramen, Kadhi Pakora, Poha",420,30-05-2025
+428,428,Dinner,"Pasta Alfredo, Dal Tadka",956,17-05-2025
+429,429,Breakfast,"Tom Yum Soup, Yogurt, Muesli, Palak Paneer",1050,08-06-2025
+430,430,Snack,"Caesar Salad, Lemon Rice",1166,19-05-2025
+431,431,Breakfast,"Nachos, Sambar Rice, Burger, Mac and Cheese, Butter Naan",1110,28-05-2025
+432,432,Dinner,"Scrambled Egg, Green Tea",1042,08-06-2025
+433,433,Dinner,"Tempura, Veg Sandwich, Scrambled Egg",752,25-05-2025
+434,434,Lunch,"Green Tea, Sushi",432,08-06-2025
+435,435,Lunch,"Pizza, Idli, Porridge, Butter Naan, Hakka Noodles",1190,13-06-2025
+436,436,Lunch,"Pad Thai, Upma, Sushi",746,07-06-2025
+437,437,Dinner,"Tacos, Paneer Butter Masala, Mac and Cheese, Bibimbap",184,29-05-2025
+438,438,Dinner,"Veg Sandwich, Bibimbap, Scrambled Egg",553,13-06-2025
+439,439,Dinner,"Pizza, Chicken Curry, Boiled Egg",113,26-05-2025
+440,440,Snack,"Green Tea, Chole Bhature, Pad Thai, Yogurt, Nachos",1102,15-06-2025
+441,441,Breakfast,"Pav Bhaji, Muesli, Nachos",1190,04-06-2025
+442,442,Snack,"Pasta Alfredo, Muesli, Tandoori Chicken, Bibimbap, Burrito",689,02-06-2025
+443,443,Breakfast,"Lamb Chops, Milkshake, Rajma Chawal, Coffee, Tandoori Chicken",983,12-06-2025
+444,444,Breakfast,"Hot Dog, Lemon Rice, Manchurian, Ramen, Fish and Chips",290,20-05-2025
+445,445,Lunch,"Rajma Chawal, Masala Dosa, Milkshake",439,25-05-2025
+446,446,Dinner,"Milkshake, Coffee",941,09-06-2025
+447,447,Lunch,"Butter Naan, Cereal, Aloo Paratha, Sambar Rice",319,19-05-2025
+448,448,Breakfast,"Lemon Rice, Palak Paneer, Green Tea, Scrambled Egg",758,13-06-2025
+449,449,Breakfast,"Tempura, Yogurt, Scrambled Egg",593,30-05-2025
+450,450,Snack,"Smoothie Bowl, Spaghetti Bolognese, Bibimbap, Chole Bhature, Sambar Rice",189,31-05-2025
+451,451,Lunch,"Lassi, Yogurt, Omelette, Veg Sandwich, Lemon Rice",827,15-06-2025
+452,452,Dinner,"Bibimbap, French Fries, Biryani",169,19-05-2025
+453,453,Breakfast,"Milkshake, Pho, Grilled Chicken",595,17-05-2025
+454,454,Breakfast,"Pav Bhaji, Coffee",347,02-06-2025
+455,455,Dinner,"Idli, Fruit Salad, Mutton Rogan Josh",598,05-06-2025
+456,456,Lunch,"Milkshake, Fried Rice, Mac and Cheese",988,11-06-2025
+457,457,Dinner,"Smoothie Bowl, Ramen, Tacos",1166,22-05-2025
+458,458,Snack,"Chicken Curry, Butter Naan, Hakka Noodles, Buttermilk",139,12-06-2025
+459,459,Lunch,"Chole Bhature, Lamb Chops, Pizza, Omelette",1051,05-06-2025
+460,460,Snack,"Cereal, Pizza, Mutton Rogan Josh",622,03-06-2025
+461,461,Lunch,"Greek Salad, Fish and Chips, Lamb Chops, Poha, Chicken Wrap",674,17-05-2025
+462,462,Snack,"Fruit Salad, Spring Rolls",834,09-06-2025
+463,463,Breakfast,"Palak Paneer, Greek Salad, Burger, Tacos",411,23-05-2025
+464,464,Dinner,"Dal Tadka, Tandoori Chicken, Fruit Salad",605,06-06-2025
+465,465,Dinner,"Porridge, Lamb Chops, Mac and Cheese",810,15-06-2025
+466,466,Snack,"Butter Naan, Beef Steak, Burger",555,17-05-2025
+467,467,Dinner,"Porridge, Bibimbap, Protein Shake, Omelette",906,29-05-2025
+468,468,Dinner,"Grilled Chicken, Pho, Veg Sandwich, Mutton Rogan Josh, Palak Paneer",354,14-06-2025
+469,469,Snack,"Nachos, Tacos, Fish and Chips, Sushi, Palak Paneer",505,25-05-2025
+470,470,Snack,"Buttermilk, Beef Steak, Dal Tadka, Pasta Alfredo",1068,11-06-2025
+471,471,Breakfast,"Rajma Chawal, Pizza, Tandoori Chicken, Upma, Lamb Chops",110,10-06-2025
+472,472,Snack,"Lassi, Mac and Cheese, Porridge",135,06-06-2025
+473,473,Breakfast,"Caesar Salad, Bibimbap, Palak Paneer",1158,15-06-2025
+474,474,Lunch,"Green Tea, Chole Bhature",317,07-06-2025
+475,475,Lunch,"Pad Thai, Tandoori Chicken, Muesli, Yogurt",513,20-05-2025
+476,476,Lunch,"Pad Thai, Bibimbap",547,11-06-2025
+477,477,Dinner,"Mac and Cheese, Kadhi Pakora, Omelette, Pizza, Fruit Salad",446,08-06-2025
+478,478,Snack,"Pizza, Greek Salad, Burrito",1093,28-05-2025
+479,479,Breakfast,"Beef Steak, Butter Naan, Pizza, Tacos, Nachos",350,19-05-2025
+480,480,Breakfast,"Paneer Butter Masala, Biryani, Vada",791,25-05-2025
+481,481,Breakfast,"Boiled Egg, Muesli",684,01-06-2025
+482,482,Snack,"Pav Bhaji, French Fries, Quesadilla, Ramen",1020,24-05-2025
+483,483,Breakfast,"Tom Yum Soup, Pad Thai",387,15-06-2025
+484,484,Breakfast,"Pizza, Kadhi Pakora, Tandoori Chicken, Hot Dog, Palak Paneer",814,21-05-2025
+485,485,Snack,"Greek Salad, Upma, Tandoori Chicken",788,25-05-2025
+486,486,Lunch,"Quesadilla, Dal Tadka, Pizza, Vada",369,20-05-2025
+487,487,Snack,"Chicken Curry, Boiled Egg, Omelette, Caesar Salad",1170,08-06-2025
+488,488,Breakfast,"Chole Bhature, Kadhi Pakora, Cereal, Upma",484,10-06-2025
+489,489,Lunch,"Dal Tadka, Lassi, Protein Shake, Beef Steak",1149,24-05-2025
+490,490,Lunch,"Green Curry, Sushi, Hakka Noodles, Tandoori Chicken",483,28-05-2025
+491,491,Breakfast,"Butter Naan, Chicken Curry, Mac and Cheese, Yogurt, Buttermilk",1198,12-06-2025
+492,492,Dinner,"Pho, Greek Salad, Bibimbap, Mutton Rogan Josh",742,03-06-2025
+493,493,Snack,"Pav Bhaji, Ramen",821,23-05-2025
+494,494,Lunch,"Spaghetti Bolognese, Cereal, Lemon Rice",782,15-06-2025
+495,495,Dinner,"Omelette, Pho, Hakka Noodles, Tacos",932,09-06-2025
+496,496,Dinner,"Coffee, Scrambled Egg",204,26-05-2025
+497,497,Breakfast,"Lamb Chops, Fruit Salad",685,30-05-2025
+498,498,Dinner,"Sambar Rice, Tom Yum Soup",1193,01-06-2025
+499,499,Snack,"Veg Sandwich, Beef Steak, Paneer Butter Masala, Hakka Noodles, Ramen",409,05-06-2025
+500,500,Dinner,"Tacos, Aloo Paratha",1127,30-05-2025
+501,501,Breakfast,"Tandoori Chicken, Coffee",1059,21-05-2025
+502,502,Breakfast,"Idli, Boiled Egg, Ramen, Sushi, Biryani",254,26-05-2025
+503,503,Snack,"Green Curry, Yogurt, Bibimbap, Idli",872,20-05-2025
+504,504,Dinner,"Paneer Butter Masala, Veg Sandwich, Palak Paneer",724,01-06-2025
+505,505,Snack,"Veg Sandwich, Masala Dosa, Scrambled Egg, Dal Tadka, Quesadilla",1182,04-06-2025
+506,506,Lunch,"Paneer Butter Masala, Kadhi Pakora, Lamb Chops, Bibimbap, Green Curry",710,04-06-2025
+507,507,Lunch,"Tom Yum Soup, Pad Thai, Spring Rolls",386,19-05-2025
+508,508,Breakfast,"Quesadilla, Fruit Salad, Greek Salad",697,02-06-2025
+509,509,Breakfast,"Tom Yum Soup, Coffee, Cereal",833,09-06-2025
+510,510,Breakfast,"Tempura, Aloo Paratha, Caesar Salad, Vada, Lemon Rice",160,03-06-2025
+511,511,Breakfast,"Mutton Rogan Josh, Masala Dosa, Fruit Salad",900,27-05-2025
+512,512,Dinner,"Spaghetti Bolognese, Yogurt",110,09-06-2025
+513,513,Breakfast,"Protein Shake, Pasta Alfredo, Palak Paneer",920,28-05-2025
+514,514,Dinner,"Boiled Egg, Pizza, Protein Shake, Sushi",1104,09-06-2025
+515,515,Lunch,"French Fries, Smoothie Bowl, Chicken Wrap",514,17-05-2025
+516,516,Dinner,"Chicken Curry, Green Curry",755,19-05-2025
+517,517,Snack,"French Fries, Masala Dosa",515,30-05-2025
+518,518,Breakfast,"Smoothie Bowl, Cereal, Idli, Nachos",1075,19-05-2025
+519,519,Snack,"Tempura, Pasta Alfredo, Greek Salad, Sushi",579,22-05-2025
+520,520,Snack,"Omelette, Spaghetti Bolognese",974,13-06-2025
+521,521,Breakfast,"Masala Dosa, Poha, Ramen, Green Curry",282,09-06-2025
+522,522,Lunch,"Lassi, Cereal, Protein Shake",1068,25-05-2025
+523,523,Lunch,"Nachos, French Fries, Beef Steak, Chicken Wrap",392,20-05-2025
+524,524,Breakfast,"Mutton Rogan Josh, Caesar Salad, Paneer Butter Masala, Mac and Cheese, Poha",241,07-06-2025
+525,525,Snack,"Chicken Wrap, Burger, Upma",793,07-06-2025
+526,526,Lunch,"Beef Steak, Tom Yum Soup",1055,22-05-2025
+527,527,Lunch,"Burrito, Fruit Salad, Grilled Chicken, Scrambled Egg, Aloo Paratha",874,02-06-2025
+528,528,Snack,"Quesadilla, Beef Steak, Idli, Yogurt",153,05-06-2025
+529,529,Lunch,"Lemon Rice, Chole Bhature, Idli",773,19-05-2025
+530,530,Snack,"Hot Dog, Lemon Rice, Yogurt",263,20-05-2025
+531,531,Breakfast,"Vada, Lemon Rice, Paneer Butter Masala, Pizza",300,17-05-2025
+532,532,Lunch,"Cereal, Chicken Wrap, Mac and Cheese, Chole Bhature, Aloo Paratha",879,11-06-2025
+533,533,Lunch,"Chicken Curry, Pasta Alfredo, Burger, Yogurt",491,25-05-2025
+534,534,Lunch,"Rajma Chawal, Green Tea, Masala Dosa",1013,27-05-2025
+535,535,Lunch,"Sushi, Palak Paneer, Quesadilla",476,18-05-2025
+536,536,Breakfast,"Lamb Chops, Pho, Chicken Wrap, Burger, Hot Dog",348,05-06-2025
+537,537,Breakfast,"Spaghetti Bolognese, Mac and Cheese, Veg Sandwich",408,24-05-2025
+538,538,Breakfast,"Tacos, Scrambled Egg, Mutton Rogan Josh, Chicken Curry, Lamb Chops",500,02-06-2025
+539,539,Snack,"Grilled Chicken, Pizza, Bibimbap, Burrito, Muesli",700,27-05-2025
+540,540,Breakfast,"Masala Dosa, Tom Yum Soup, Hakka Noodles, French Fries",542,27-05-2025
+541,541,Dinner,"Aloo Paratha, Pad Thai, Beef Steak",1009,18-05-2025
+542,542,Breakfast,"Butter Naan, Ramen, Porridge, Chole Bhature",794,26-05-2025
+543,543,Breakfast,"Butter Naan, Hot Dog, Idli, Greek Salad, Sushi",920,13-06-2025
+544,544,Breakfast,"Omelette, Mac and Cheese",177,14-06-2025
+545,545,Breakfast,"Aloo Paratha, Veg Sandwich, Kadhi Pakora",312,13-06-2025
+546,546,Lunch,"Burger, French Fries",313,11-06-2025
+547,547,Breakfast,"Pav Bhaji, Burrito, Vada, Masala Dosa, Manchurian",167,10-06-2025
+548,548,Breakfast,"Porridge, Green Curry, Nachos",684,04-06-2025
+549,549,Dinner,"Muesli, Poha, Palak Paneer",144,04-06-2025
+550,550,Lunch,"Grilled Chicken, Hot Dog, Greek Salad, Boiled Egg, Palak Paneer",674,07-06-2025
+551,551,Dinner,"Hot Dog, Caesar Salad, Green Tea, Spaghetti Bolognese, Beef Steak",1148,14-06-2025
+552,552,Lunch,"Scrambled Egg, Pav Bhaji, Vada, Bibimbap",1089,04-06-2025
+553,553,Snack,"Coffee, Burrito, Pho, Butter Naan",270,02-06-2025
+554,554,Lunch,"Mutton Rogan Josh, French Fries, Lassi",825,07-06-2025
+555,555,Breakfast,"Mutton Rogan Josh, Hot Dog, Lamb Chops",685,11-06-2025
+556,556,Snack,"Chole Bhature, Spaghetti Bolognese, Hakka Noodles, Milkshake, Lassi",1095,02-06-2025
+557,557,Lunch,"Pav Bhaji, Chicken Curry, Burrito",556,17-05-2025
+558,558,Lunch,"Pad Thai, Chole Bhature, Butter Naan, Paneer Butter Masala",937,04-06-2025
+559,559,Lunch,"Upma, Caesar Salad",419,27-05-2025
+560,560,Breakfast,"Lassi, Upma, Chicken Curry, Protein Shake, Buttermilk",405,20-05-2025
+561,561,Snack,"Lemon Rice, Omelette, Smoothie Bowl, Chicken Wrap",960,18-05-2025
+562,562,Breakfast,"Mutton Rogan Josh, Pad Thai, Lassi",634,02-06-2025
+563,563,Dinner,"Milkshake, Lemon Rice, Green Curry",631,14-06-2025
+564,564,Snack,"Biryani, Pasta Alfredo, Beef Steak, Upma, Muesli",677,02-06-2025
+565,565,Lunch,"Dal Tadka, Greek Salad",168,11-06-2025
+566,566,Breakfast,"Mutton Rogan Josh, Hot Dog, Veg Sandwich",300,22-05-2025
+567,567,Dinner,"Biryani, Pasta Alfredo, Fish and Chips, Pho, French Fries",168,26-05-2025
+568,568,Lunch,"Fruit Salad, Porridge",815,14-06-2025
+569,569,Dinner,"French Fries, Porridge, Lemon Rice, Protein Shake, Mac and Cheese",174,06-06-2025
+570,570,Snack,"Lemon Rice, Chicken Curry, Smoothie Bowl, Nachos, Tempura",707,07-06-2025
+571,571,Breakfast,"Manchurian, Smoothie Bowl, Butter Naan",330,25-05-2025
+572,572,Breakfast,"Green Tea, Protein Shake, Muesli, Upma",948,06-06-2025
+573,573,Lunch,"Grilled Chicken, Pav Bhaji, Quesadilla, Scrambled Egg, Chicken Curry",112,27-05-2025
+574,574,Lunch,"Idli, Scrambled Egg",642,22-05-2025
+575,575,Breakfast,"Porridge, Veg Sandwich",155,21-05-2025
+576,576,Dinner,"Nachos, Spring Rolls",582,22-05-2025
+577,577,Snack,"Pho, Poha, Veg Sandwich, Sambar Rice",806,19-05-2025
+578,578,Breakfast,"Beef Steak, Green Tea",1003,28-05-2025
+579,579,Dinner,"Butter Naan, Spring Rolls, Burrito",812,12-06-2025
+580,580,Dinner,"Fruit Salad, Burger, Green Curry, Pizza, Bibimbap",618,02-06-2025
+581,581,Snack,"Masala Dosa, Mutton Rogan Josh, Fruit Salad, Yogurt, Quesadilla",904,28-05-2025
+582,582,Breakfast,"Milkshake, Burrito, Green Curry",323,05-06-2025
+583,583,Dinner,"Masala Dosa, Coffee",777,13-06-2025
+584,584,Lunch,"Burrito, Greek Salad, Hakka Noodles",652,24-05-2025
+585,585,Dinner,"Ramen, Butter Naan",588,13-06-2025
+586,586,Snack,"Fried Rice, Masala Dosa",129,15-06-2025
+587,587,Dinner,"Grilled Chicken, Idli, Coffee, Lassi",663,27-05-2025
+588,588,Breakfast,"Grilled Chicken, Aloo Paratha, Yogurt",743,18-05-2025
+589,589,Lunch,"Green Curry, Hot Dog",522,06-06-2025
+590,590,Lunch,"Green Curry, Dal Tadka",1197,13-06-2025
+591,591,Lunch,"Greek Salad, Manchurian, Mutton Rogan Josh, Yogurt, Lamb Chops",1042,28-05-2025
+592,592,Snack,"Manchurian, Chicken Wrap, Aloo Paratha, Burger",985,26-05-2025
+593,593,Lunch,"Muesli, Chole Bhature",357,24-05-2025
+594,594,Lunch,"Veg Sandwich, Spring Rolls, Palak Paneer, Pho",927,20-05-2025
+595,595,Breakfast,"Quesadilla, Nachos, Paneer Butter Masala, Fried Rice",374,05-06-2025
+596,596,Lunch,"Tandoori Chicken, Sambar Rice",1008,25-05-2025
+597,597,Lunch,"Tempura, Quesadilla, Sambar Rice",911,13-06-2025
+598,598,Lunch,"Tacos, Milkshake, Pho, Manchurian, Tempura",297,29-05-2025
+599,599,Dinner,"Kadhi Pakora, Cereal, Ramen",1051,20-05-2025
+600,600,Dinner,"Pad Thai, Greek Salad, Paneer Butter Masala",693,06-06-2025
+601,601,Lunch,"Buttermilk, Spring Rolls, Manchurian",159,15-06-2025
+602,602,Dinner,"Mutton Rogan Josh, Biryani, Tacos, Palak Paneer",545,20-05-2025
+603,603,Breakfast,"Hakka Noodles, Palak Paneer, Bibimbap",581,15-06-2025
+604,604,Dinner,"Kadhi Pakora, Greek Salad, Tacos",985,05-06-2025
+605,605,Breakfast,"Greek Salad, Lassi, Sushi, Hakka Noodles, Green Curry",276,09-06-2025
+606,606,Breakfast,"Chicken Curry, Fish and Chips",866,14-06-2025
+607,607,Lunch,"Green Curry, Vada, Muesli",498,02-06-2025
+608,608,Lunch,"Muesli, Spring Rolls",220,02-06-2025
+609,609,Breakfast,"Milkshake, Biryani, Lemon Rice, Hakka Noodles",1012,21-05-2025
+610,610,Snack,"Vada, Pho, Mutton Rogan Josh",1020,29-05-2025
+611,611,Dinner,"Masala Dosa, Burger, Tandoori Chicken",194,02-06-2025
+612,612,Snack,"Boiled Egg, Rajma Chawal, Porridge, Green Curry, Fish and Chips",506,24-05-2025
+613,613,Dinner,"Pho, Protein Shake, Poha, Tandoori Chicken, Caesar Salad",390,30-05-2025
+614,614,Lunch,"Pasta Alfredo, Burrito",426,28-05-2025
+615,615,Snack,"Paneer Butter Masala, Chicken Curry, Rajma Chawal, Pav Bhaji, Manchurian",828,11-06-2025
+616,616,Snack,"Buttermilk, Spring Rolls, Veg Sandwich",449,27-05-2025
+617,617,Breakfast,"Ramen, Aloo Paratha",647,12-06-2025
+618,618,Snack,"Chole Bhature, Scrambled Egg, Pad Thai, Smoothie Bowl",526,23-05-2025
+619,619,Breakfast,"Green Tea, Kadhi Pakora",359,05-06-2025
+620,620,Dinner,"Tacos, Lamb Chops, Omelette, Pho",752,31-05-2025
+621,621,Dinner,"Pasta Alfredo, Masala Dosa, Lassi, Rajma Chawal, French Fries",1163,26-05-2025
+622,622,Snack,"Smoothie Bowl, Cereal, Buttermilk, Beef Steak, Sambar Rice",721,09-06-2025
+623,623,Breakfast,"Chicken Curry, Scrambled Egg, Burrito, Yogurt, Ramen",1072,15-06-2025
+624,624,Snack,"Dal Tadka, Protein Shake, Vada, Caesar Salad",313,20-05-2025
+625,625,Snack,"Lassi, Lemon Rice, Muesli, Omelette",290,10-06-2025
+626,626,Lunch,"Tacos, Paneer Butter Masala",1009,19-05-2025
+627,627,Breakfast,"Masala Dosa, Spaghetti Bolognese, Scrambled Egg",257,27-05-2025
+628,628,Breakfast,"Tempura, Kadhi Pakora, Manchurian",1003,14-06-2025
+629,629,Dinner,"Tacos, Grilled Chicken, Palak Paneer",651,14-06-2025
+630,630,Snack,"French Fries, Omelette, Paneer Butter Masala, Smoothie Bowl, Fish and Chips",815,13-06-2025
+631,631,Breakfast,"Palak Paneer, Smoothie Bowl, Cereal",478,27-05-2025
+632,632,Lunch,"Pizza, Protein Shake",852,08-06-2025
+633,633,Lunch,"Mac and Cheese, Tom Yum Soup, Chicken Wrap, Bibimbap",1133,15-06-2025
+634,634,Lunch,"Spaghetti Bolognese, Hot Dog, Burrito",354,18-05-2025
+635,635,Lunch,"Rajma Chawal, Quesadilla, Pav Bhaji, Muesli",519,10-06-2025
+636,636,Snack,"Pizza, Caesar Salad",555,07-06-2025
+637,637,Lunch,"Aloo Paratha, Pav Bhaji, Grilled Chicken, Veg Sandwich, Fruit Salad",873,13-06-2025
+638,638,Snack,"Poha, Pav Bhaji, Coffee",336,30-05-2025
+639,639,Lunch,"Rajma Chawal, Ramen",606,05-06-2025
+640,640,Snack,"Pizza, Spaghetti Bolognese, Burrito, Burger, Lamb Chops",1017,08-06-2025
+641,641,Dinner,"Greek Salad, Pav Bhaji, Chicken Curry",573,31-05-2025
+642,642,Lunch,"Dal Tadka, Manchurian, Pasta Alfredo, Rajma Chawal",633,07-06-2025
+643,643,Lunch,"Chole Bhature, French Fries, Mutton Rogan Josh, Fruit Salad, Omelette",912,23-05-2025
+644,644,Lunch,"Scrambled Egg, Porridge",141,18-05-2025
+645,645,Lunch,"Coffee, Palak Paneer",233,23-05-2025
+646,646,Breakfast,"Tacos, Lamb Chops, Pad Thai",946,15-06-2025
+647,647,Breakfast,"Greek Salad, Chole Bhature, Poha, Sushi, Pho",305,29-05-2025
+648,648,Dinner,"Rajma Chawal, Pizza, Beef Steak",810,12-06-2025
+649,649,Snack,"Paneer Butter Masala, Cereal",1007,15-06-2025
+650,650,Lunch,"Tempura, French Fries",1043,13-06-2025
+651,651,Breakfast,"Green Tea, Upma, Masala Dosa, Manchurian",171,02-06-2025
+652,652,Lunch,"Buttermilk, Mac and Cheese",1014,25-05-2025
+653,653,Dinner,"Masala Dosa, Chicken Curry, Sushi, Boiled Egg, Protein Shake",1186,04-06-2025
+654,654,Lunch,"Ramen, Fried Rice, Spring Rolls, Sushi, Scrambled Egg",832,09-06-2025
+655,655,Lunch,"Omelette, French Fries, Green Curry, Mutton Rogan Josh, Spaghetti Bolognese",122,07-06-2025
+656,656,Dinner,"Ramen, Rajma Chawal, Yogurt, Biryani",381,17-05-2025
+657,657,Snack,"Tempura, Boiled Egg, Fruit Salad, Nachos",639,18-05-2025
+658,658,Breakfast,"Palak Paneer, Vada, Boiled Egg, Hot Dog, Omelette",540,17-05-2025
+659,659,Snack,"Paneer Butter Masala, Chicken Curry, Fruit Salad",140,24-05-2025
+660,660,Snack,"Beef Steak, Muesli",286,28-05-2025
+661,661,Breakfast,"Bibimbap, Milkshake, Pad Thai",195,28-05-2025
+662,662,Dinner,"Mutton Rogan Josh, Dal Tadka, Vada, Grilled Chicken",1142,08-06-2025
+663,663,Breakfast,"Caesar Salad, Nachos",474,08-06-2025
+664,664,Breakfast,"Manchurian, Buttermilk, Lassi, Beef Steak",1197,25-05-2025
+665,665,Dinner,"Tandoori Chicken, Quesadilla, Chicken Wrap",906,27-05-2025
+666,666,Lunch,"Porridge, Pasta Alfredo, Protein Shake, Fruit Salad, Yogurt",600,12-06-2025
+667,667,Snack,"Burger, Grilled Chicken, Bibimbap",882,06-06-2025
+668,668,Lunch,"Caesar Salad, Pad Thai, Vada, Protein Shake, Smoothie Bowl",1036,17-05-2025
+669,669,Snack,"Lassi, Muesli",475,26-05-2025
+670,670,Lunch,"Muesli, Sambar Rice",1070,10-06-2025
+671,671,Breakfast,"Aloo Paratha, Chicken Wrap, Buttermilk",1074,02-06-2025
+672,672,Dinner,"Palak Paneer, Hakka Noodles, Aloo Paratha",778,23-05-2025
+673,673,Lunch,"Lassi, Mac and Cheese",749,29-05-2025
+674,674,Snack,"Lassi, Kadhi Pakora, Buttermilk, Rajma Chawal, Chole Bhature",950,06-06-2025
+675,675,Lunch,"Lassi, Nachos, Biryani",1047,22-05-2025
+676,676,Dinner,"Muesli, Lassi",267,24-05-2025
+677,677,Snack,"Pav Bhaji, Manchurian, Tandoori Chicken, Chole Bhature",847,11-06-2025
+678,678,Snack,"Manchurian, Nachos, Smoothie Bowl, Biryani, Aloo Paratha",1013,28-05-2025
+679,679,Lunch,"Quesadilla, Beef Steak, Butter Naan, Spaghetti Bolognese",1163,29-05-2025
+680,680,Dinner,"Veg Sandwich, Porridge, Burrito, Lemon Rice, Aloo Paratha",597,15-06-2025
+681,681,Breakfast,"Spring Rolls, Fish and Chips, Ramen, Lamb Chops",859,14-06-2025
+682,682,Lunch,"Burrito, Fruit Salad, Burger",229,26-05-2025
+683,683,Lunch,"Sushi, Upma, Coffee, Veg Sandwich, Green Curry",250,17-05-2025
+684,684,Dinner,"Poha, Green Curry",231,22-05-2025
+685,685,Snack,"Milkshake, Paneer Butter Masala, Ramen, Veg Sandwich, Boiled Egg",1145,15-06-2025
+686,686,Lunch,"Spaghetti Bolognese, Grilled Chicken",983,07-06-2025
+687,687,Dinner,"Sushi, Aloo Paratha, Veg Sandwich",960,23-05-2025
+688,688,Lunch,"Sambar Rice, Pasta Alfredo, Upma",425,13-06-2025
+689,689,Lunch,"Porridge, Scrambled Egg, Pasta Alfredo, Chole Bhature, Chicken Wrap",648,12-06-2025
+690,690,Breakfast,"Green Curry, Milkshake, Porridge, Tom Yum Soup, Sushi",151,07-06-2025
+691,691,Breakfast,"Grilled Chicken, Tacos, Mutton Rogan Josh, Idli, Cereal",366,17-05-2025
+692,692,Lunch,"Muesli, Bibimbap, Ramen, Chicken Wrap, Upma",566,01-06-2025
+693,693,Snack,"Pho, Butter Naan",573,23-05-2025
+694,694,Breakfast,"Ramen, Omelette",1042,24-05-2025
+695,695,Snack,"Idli, Smoothie Bowl, Buttermilk, Beef Steak, Poha",474,28-05-2025
+696,696,Breakfast,"Lassi, Spring Rolls, Dal Tadka, Chole Bhature, Green Tea",358,29-05-2025
+697,697,Breakfast,"Pad Thai, Pizza, Pasta Alfredo",634,12-06-2025
+698,698,Lunch,"Pad Thai, Quesadilla, Bibimbap, Fish and Chips",594,28-05-2025
+699,699,Lunch,"Tandoori Chicken, Buttermilk, Quesadilla",577,21-05-2025
+700,700,Lunch,"Rajma Chawal, Paneer Butter Masala, Burger, Chole Bhature",1200,21-05-2025
+701,701,Lunch,"Omelette, Scrambled Egg, Poha, Spring Rolls, Hot Dog",803,30-05-2025
+702,702,Snack,"Tempura, Protein Shake",741,25-05-2025
+703,703,Lunch,"Sambar Rice, Spring Rolls, Pav Bhaji, Butter Naan, Porridge",286,11-06-2025
+704,704,Snack,"Greek Salad, Caesar Salad, Burrito, Dal Tadka, Yogurt",365,04-06-2025
+705,705,Lunch,"Lassi, Fried Rice, French Fries, Pho",1055,07-06-2025
+706,706,Breakfast,"Lemon Rice, Tempura",403,22-05-2025
+707,707,Snack,"Smoothie Bowl, Boiled Egg",560,03-06-2025
+708,708,Lunch,"Pav Bhaji, Smoothie Bowl, Masala Dosa, Pizza",406,06-06-2025
+709,709,Lunch,"Bibimbap, Tandoori Chicken, Porridge",421,18-05-2025
+710,710,Breakfast,"Sambar Rice, Muesli, Fried Rice, Tandoori Chicken",274,28-05-2025
+711,711,Snack,"Lamb Chops, Poha, Porridge",317,06-06-2025
+712,712,Snack,"Fish and Chips, Yogurt",348,21-05-2025
+713,713,Dinner,"Chicken Wrap, Butter Naan",933,14-06-2025
+714,714,Snack,"Muesli, Beef Steak, Grilled Chicken",724,23-05-2025
+715,715,Snack,"Green Tea, Tom Yum Soup, Quesadilla, Chole Bhature, Lassi",766,20-05-2025
+716,716,Snack,"Grilled Chicken, Manchurian, Pizza, Upma, Protein Shake",1155,06-06-2025
+717,717,Lunch,"Beef Steak, Pizza, Coffee, Spring Rolls",949,15-06-2025
+718,718,Snack,"Lamb Chops, Caesar Salad, Biryani, Pad Thai, Sambar Rice",531,09-06-2025
+719,719,Lunch,"Ramen, Manchurian",833,01-06-2025
+720,720,Lunch,"Muesli, Scrambled Egg, Quesadilla, Pho",567,26-05-2025
+721,721,Dinner,"Dal Tadka, Palak Paneer, Masala Dosa, Paneer Butter Masala, Butter Naan",402,23-05-2025
+722,722,Dinner,"Mutton Rogan Josh, Omelette, Paneer Butter Masala, Milkshake",293,18-05-2025
+723,723,Dinner,"Fried Rice, Paneer Butter Masala, Aloo Paratha",367,23-05-2025
+724,724,Lunch,"Hakka Noodles, Omelette, Sushi, Boiled Egg, Burger",805,04-06-2025
+725,725,Lunch,"Hakka Noodles, Yogurt, Ramen, Chicken Wrap, Protein Shake",355,24-05-2025
+726,726,Dinner,"Lamb Chops, Aloo Paratha",417,15-06-2025
+727,727,Breakfast,"Pasta Alfredo, Hot Dog",158,21-05-2025
+728,728,Lunch,"French Fries, Yogurt, Pasta Alfredo",836,24-05-2025
+729,729,Lunch,"Idli, Coffee, Hot Dog",189,29-05-2025
+730,730,Snack,"Burger, Beef Steak, Green Tea, Burrito, Yogurt",138,14-06-2025
+731,731,Snack,"Pizza, Grilled Chicken, Mac and Cheese",1032,27-05-2025
+732,732,Dinner,"Greek Salad, Paneer Butter Masala, Fish and Chips, Biryani, Upma",336,22-05-2025
+733,733,Snack,"Pav Bhaji, Milkshake, Tandoori Chicken, Muesli, Sushi",779,07-06-2025
+734,734,Lunch,"Pad Thai, Yogurt, Coffee, Biryani, Pav Bhaji",972,19-05-2025
+735,735,Snack,"Ramen, Boiled Egg, French Fries",442,31-05-2025
+736,736,Lunch,"Tandoori Chicken, Pho, Green Tea, Coffee, Buttermilk",570,23-05-2025
+737,737,Lunch,"Sambar Rice, Bibimbap, Butter Naan, Boiled Egg, Pizza",991,15-06-2025
+738,738,Snack,"Biryani, Quesadilla",113,30-05-2025
+739,739,Dinner,"Cereal, Chole Bhature, Green Curry, Dal Tadka",145,01-06-2025
+740,740,Lunch,"Dal Tadka, Butter Naan, Coffee, Poha",839,14-06-2025
+741,741,Lunch,"Pizza, Rajma Chawal, Sambar Rice, Veg Sandwich",517,05-06-2025
+742,742,Breakfast,"Manchurian, Veg Sandwich, Chicken Wrap",751,15-06-2025
+743,743,Lunch,"Omelette, Pizza",132,29-05-2025
+744,744,Dinner,"Butter Naan, Caesar Salad, Buttermilk, Chicken Curry, Porridge",267,12-06-2025
+745,745,Lunch,"Pav Bhaji, Grilled Chicken, Green Curry",263,30-05-2025
+746,746,Breakfast,"Masala Dosa, Burrito, Muesli, Mutton Rogan Josh, Lemon Rice",1147,25-05-2025
+747,747,Lunch,"Fried Rice, Porridge, Vada",143,14-06-2025
+748,748,Breakfast,"Buttermilk, Fruit Salad, Beef Steak",803,04-06-2025
+749,749,Lunch,"Sambar Rice, Cereal",127,21-05-2025
+750,750,Lunch,"Chicken Wrap, Fried Rice",706,03-06-2025
+751,751,Lunch,"Chicken Curry, Pizza",1200,06-06-2025
+752,752,Breakfast,"Vada, Bibimbap, Boiled Egg, Sushi",118,21-05-2025
+753,753,Breakfast,"Butter Naan, Fruit Salad, Sambar Rice, Lamb Chops",998,31-05-2025
+754,754,Dinner,"Grilled Chicken, Beef Steak, Coffee, Chicken Wrap",830,30-05-2025
+755,755,Snack,"Chicken Curry, Green Tea",1108,22-05-2025
+756,756,Breakfast,"Spaghetti Bolognese, Lemon Rice, Manchurian, Beef Steak, Protein Shake",862,06-06-2025
+757,757,Dinner,"Pho, Palak Paneer",349,31-05-2025
+758,758,Snack,"Poha, Porridge, Fish and Chips",198,03-06-2025
+759,759,Breakfast,"Beef Steak, Sambar Rice, Butter Naan",938,02-06-2025
+760,760,Breakfast,"Chole Bhature, Grilled Chicken, Vada, Spring Rolls",413,04-06-2025
+761,761,Breakfast,"Tandoori Chicken, Green Tea, Nachos, Spaghetti Bolognese, Tacos",186,09-06-2025
+762,762,Lunch,"Porridge, Protein Shake",462,31-05-2025
+763,763,Snack,"Coffee, Cereal",106,14-06-2025
+764,764,Dinner,"Greek Salad, Burrito, Nachos",707,13-06-2025
+765,765,Dinner,"Burger, Milkshake, Tom Yum Soup, Fruit Salad, French Fries",717,30-05-2025
+766,766,Breakfast,"Spring Rolls, Fish and Chips, French Fries",1082,20-05-2025
+767,767,Snack,"Boiled Egg, Hot Dog, Tom Yum Soup, Fried Rice, Mac and Cheese",371,31-05-2025
+768,768,Dinner,"Boiled Egg, Buttermilk, Aloo Paratha",679,28-05-2025
+769,769,Lunch,"Porridge, Hot Dog",175,12-06-2025
+770,770,Dinner,"Pad Thai, Fruit Salad, Smoothie Bowl, Mac and Cheese, Pizza",346,26-05-2025
+771,771,Dinner,"Burrito, Burger, Rajma Chawal, Fruit Salad",437,18-05-2025
+772,772,Lunch,"Masala Dosa, Sushi",746,22-05-2025
+773,773,Breakfast,"Poha, Hot Dog",158,12-06-2025
+774,774,Lunch,"Chicken Curry, Grilled Chicken, Buttermilk",170,20-05-2025
+775,775,Breakfast,"Spring Rolls, Tom Yum Soup, Cereal",553,13-06-2025
+776,776,Dinner,"Spaghetti Bolognese, Milkshake",816,29-05-2025
+777,777,Lunch,"Fried Rice, Tandoori Chicken, Milkshake",896,02-06-2025
+778,778,Snack,"Idli, Sambar Rice, Sushi, Chicken Wrap, Fish and Chips",164,08-06-2025
+779,779,Lunch,"Butter Naan, Green Tea, Hot Dog",1148,12-06-2025
+780,780,Snack,"Grilled Chicken, Tacos",782,20-05-2025
+781,781,Dinner,"Lemon Rice, Hakka Noodles",160,03-06-2025
+782,782,Lunch,"Protein Shake, Masala Dosa, Palak Paneer, Greek Salad",1132,22-05-2025
+783,783,Dinner,"Aloo Paratha, Chicken Curry, Manchurian, Nachos",523,14-06-2025
+784,784,Dinner,"Palak Paneer, Protein Shake, Paneer Butter Masala",1089,09-06-2025
+785,785,Dinner,"Green Curry, Boiled Egg",191,24-05-2025
+786,786,Dinner,"Aloo Paratha, Fruit Salad, Boiled Egg, Green Curry",162,27-05-2025
+787,787,Breakfast,"Quesadilla, Dal Tadka, Palak Paneer",801,15-06-2025
+788,788,Breakfast,"Aloo Paratha, Upma, Lassi, Biryani",1087,14-06-2025
+789,789,Lunch,"Hot Dog, Spaghetti Bolognese, Tom Yum Soup, Boiled Egg",611,09-06-2025
+790,790,Lunch,"Bibimbap, Greek Salad, Manchurian, Smoothie Bowl",1070,18-05-2025
+791,791,Breakfast,"Ramen, Tom Yum Soup, Veg Sandwich, Spring Rolls, Caesar Salad",896,23-05-2025
+792,792,Lunch,"Hakka Noodles, Nachos, Hot Dog, Chicken Wrap, Pizza",592,04-06-2025
+793,793,Lunch,"Paneer Butter Masala, Spring Rolls, Tom Yum Soup, Pav Bhaji, Lassi",591,23-05-2025
+794,794,Breakfast,"Poha, Lamb Chops, Idli, Mutton Rogan Josh, Pasta Alfredo",229,01-06-2025
+795,795,Snack,"Aloo Paratha, Tom Yum Soup",519,17-05-2025
+796,796,Breakfast,"Chole Bhature, Pho",602,30-05-2025
+797,797,Breakfast,"Pav Bhaji, Grilled Chicken, Pad Thai, Protein Shake",572,31-05-2025
+798,798,Dinner,"Sambar Rice, Mac and Cheese, Coffee",1134,10-06-2025
+799,799,Snack,"Palak Paneer, Cereal",300,27-05-2025
+800,800,Snack,"Green Tea, Coffee",1158,13-06-2025
+801,801,Snack,"Chole Bhature, Fruit Salad, Green Tea, Tom Yum Soup, Tacos",125,24-05-2025
+802,802,Dinner,"Manchurian, Palak Paneer",1043,17-05-2025
+803,803,Lunch,"Tacos, Bibimbap",911,30-05-2025
+804,804,Snack,"Chole Bhature, Buttermilk, Pizza",575,22-05-2025
+805,805,Breakfast,"Sambar Rice, Pizza",1047,14-06-2025
+806,806,Dinner,"Nachos, Poha, Burger, Lassi, Tempura",573,10-06-2025
+807,807,Breakfast,"Chole Bhature, Chicken Wrap, Omelette, Idli",1137,14-06-2025
+808,808,Breakfast,"Butter Naan, Fried Rice, Milkshake, Muesli, Caesar Salad",1089,23-05-2025
+809,809,Dinner,"Scrambled Egg, Grilled Chicken, Porridge, Veg Sandwich",918,12-06-2025
+810,810,Dinner,"Mac and Cheese, Sambar Rice, Burger, Scrambled Egg",142,13-06-2025
+811,811,Lunch,"Dal Tadka, Grilled Chicken",619,25-05-2025
+812,812,Lunch,"Pizza, Chicken Wrap, Chole Bhature, Mutton Rogan Josh",672,10-06-2025
+813,813,Snack,"Biryani, Hot Dog",1138,28-05-2025
+814,814,Snack,"Tom Yum Soup, Nachos, Green Tea, Manchurian",797,22-05-2025
+815,815,Breakfast,"Lamb Chops, Lemon Rice",497,06-06-2025
+816,816,Dinner,"Yogurt, Masala Dosa, Spring Rolls",542,27-05-2025
+817,817,Snack,"Scrambled Egg, Smoothie Bowl, Green Curry, Pho, Green Tea",128,26-05-2025
+818,818,Lunch,"Spaghetti Bolognese, Chole Bhature, Porridge",337,05-06-2025
+819,819,Snack,"Green Curry, Muesli, Tom Yum Soup, Veg Sandwich",345,05-06-2025
+820,820,Dinner,"Lemon Rice, Coffee, Cereal, Scrambled Egg, Sushi",378,17-05-2025
+821,821,Snack,"Greek Salad, Masala Dosa, Chicken Curry",705,17-05-2025
+822,822,Snack,"Chicken Wrap, Green Tea, Lamb Chops",873,02-06-2025
+823,823,Lunch,"Spaghetti Bolognese, Mac and Cheese",1054,19-05-2025
+824,824,Dinner,"Quesadilla, Sushi, Spring Rolls, Veg Sandwich",1181,20-05-2025
+825,825,Breakfast,"Hakka Noodles, Green Tea, Buttermilk, Masala Dosa",754,14-06-2025
+826,826,Snack,"Chicken Curry, Coffee, Muesli, Butter Naan, Palak Paneer",238,14-06-2025
+827,827,Lunch,"Boiled Egg, Manchurian, Muesli, Chole Bhature, Milkshake",606,07-06-2025
+828,828,Lunch,"Idli, French Fries, Kadhi Pakora, Greek Salad, Muesli",259,13-06-2025
+829,829,Breakfast,"Coffee, Palak Paneer, Chicken Wrap, Tom Yum Soup",715,06-06-2025
+830,830,Snack,"Burrito, Sushi, Pho, Ramen, Masala Dosa",648,13-06-2025
+831,831,Dinner,"Cereal, Pad Thai, Bibimbap",788,17-05-2025
+832,832,Lunch,"Chicken Curry, Rajma Chawal, Kadhi Pakora",683,28-05-2025
+833,833,Breakfast,"Idli, Nachos, Vada",758,27-05-2025
+834,834,Dinner,"Protein Shake, Chicken Curry, Aloo Paratha, Green Curry",850,27-05-2025
+835,835,Lunch,"Spaghetti Bolognese, Yogurt, Beef Steak, Biryani, Lassi",529,25-05-2025
+836,836,Lunch,"Greek Salad, Nachos, Tom Yum Soup",172,26-05-2025
+837,837,Breakfast,"Scrambled Egg, Quesadilla, Biryani, Lamb Chops",128,08-06-2025
+838,838,Dinner,"Yogurt, Pav Bhaji",354,14-06-2025
+839,839,Lunch,"Grilled Chicken, Hakka Noodles",414,13-06-2025
+840,840,Breakfast,"Poha, Burger, Burrito, Butter Naan, Cereal",827,28-05-2025
+841,841,Dinner,"Buttermilk, Kadhi Pakora, Palak Paneer",368,04-06-2025
+842,842,Lunch,"Kadhi Pakora, Mac and Cheese",1191,23-05-2025
+843,843,Lunch,"Beef Steak, Muesli, Pasta Alfredo, Grilled Chicken",202,26-05-2025
+844,844,Lunch,"Lamb Chops, Chicken Curry, Spring Rolls, Caesar Salad",361,13-06-2025
+845,845,Dinner,"Pav Bhaji, Paneer Butter Masala, Poha, Mutton Rogan Josh",331,02-06-2025
+846,846,Dinner,"Milkshake, Fried Rice, Manchurian, Dal Tadka",232,19-05-2025
+847,847,Snack,"Green Tea, Kadhi Pakora, Chicken Wrap, Smoothie Bowl, Bibimbap",403,31-05-2025
+848,848,Snack,"Caesar Salad, Vada, Tom Yum Soup, Nachos",663,09-06-2025
+849,849,Dinner,"Pad Thai, Hot Dog",880,06-06-2025
+850,850,Dinner,"Dal Tadka, Boiled Egg, Kadhi Pakora, Upma",456,20-05-2025
+851,851,Dinner,"Tom Yum Soup, Tempura",614,28-05-2025
+852,852,Snack,"Cereal, Poha, Pho",159,26-05-2025
+853,853,Lunch,"Sambar Rice, Biryani, Beef Steak",588,23-05-2025
+854,854,Dinner,"Bibimbap, Upma, Masala Dosa",713,24-05-2025
+855,855,Breakfast,"Cereal, Fruit Salad",360,11-06-2025
+856,856,Lunch,"Green Tea, Scrambled Egg",409,02-06-2025
+857,857,Snack,"Protein Shake, Mac and Cheese",950,10-06-2025
+858,858,Snack,"Nachos, Upma",125,28-05-2025
+859,859,Breakfast,"Aloo Paratha, Green Tea, Masala Dosa",280,11-06-2025
+860,860,Lunch,"Upma, Protein Shake, Pav Bhaji, Green Tea",366,17-05-2025
+861,861,Breakfast,"Vada, Muesli, Manchurian, Scrambled Egg",625,27-05-2025
+862,862,Dinner,"Bibimbap, Muesli, Ramen",1087,22-05-2025
+863,863,Lunch,"Protein Shake, French Fries, Pasta Alfredo",389,25-05-2025
+864,864,Breakfast,"Pad Thai, Tempura, Beef Steak, Yogurt, Muesli",435,08-06-2025
+865,865,Dinner,"Cereal, Spaghetti Bolognese, Pad Thai, Nachos",382,22-05-2025
+866,866,Snack,"Cereal, Chole Bhature, Buttermilk, Vada",774,12-06-2025
+867,867,Breakfast,"Mutton Rogan Josh, Tempura",949,03-06-2025
+868,868,Dinner,"Upma, Tempura, Biryani, Hot Dog, Yogurt",1121,12-06-2025
+869,869,Breakfast,"Hot Dog, Manchurian, Paneer Butter Masala",159,17-05-2025
+870,870,Lunch,"Lassi, Greek Salad, Pasta Alfredo, Yogurt, Tacos",462,18-05-2025
+871,871,Breakfast,"Lemon Rice, Poha, Pho, Chicken Wrap, Pasta Alfredo",530,17-05-2025
+872,872,Dinner,"Pho, Spring Rolls, Yogurt, Burrito",1186,15-06-2025
+873,873,Snack,"Mutton Rogan Josh, Lassi",1015,31-05-2025
+874,874,Lunch,"Tandoori Chicken, Veg Sandwich, Fruit Salad, Aloo Paratha, Scrambled Egg",791,18-05-2025
+875,875,Dinner,"Boiled Egg, Lamb Chops, Aloo Paratha, Lemon Rice",754,25-05-2025
+876,876,Lunch,"Manchurian, Beef Steak, Poha, Yogurt, Green Curry",1143,27-05-2025
+877,877,Snack,"Sambar Rice, Buttermilk, Tom Yum Soup",130,24-05-2025
+878,878,Lunch,"Omelette, Tacos, Porridge, Pad Thai, Ramen",521,26-05-2025
+879,879,Breakfast,"Fruit Salad, Idli",1192,24-05-2025
+880,880,Lunch,"Muesli, Kadhi Pakora, Spring Rolls",951,24-05-2025
+881,881,Dinner,"Pho, Fruit Salad, Chole Bhature",587,29-05-2025
+882,882,Lunch,"Fish and Chips, Dal Tadka",918,20-05-2025
+883,883,Breakfast,"Tandoori Chicken, Tempura, Paneer Butter Masala, Manchurian",416,03-06-2025
+884,884,Lunch,"Caesar Salad, Milkshake, Buttermilk, Idli, Spring Rolls",504,10-06-2025
+885,885,Lunch,"French Fries, Lemon Rice, Tom Yum Soup, Fish and Chips, Omelette",170,22-05-2025
+886,886,Dinner,"Hakka Noodles, Chicken Wrap",152,05-06-2025
+887,887,Breakfast,"Rajma Chawal, Idli",767,06-06-2025
+888,888,Snack,"Cereal, Milkshake, Tacos",436,26-05-2025
+889,889,Snack,"Spring Rolls, Sushi, Biryani, Pho, Pizza",395,28-05-2025
+890,890,Lunch,"Hot Dog, Fried Rice",1075,21-05-2025
+891,891,Breakfast,"Tacos, Tempura, Hakka Noodles, Vada",1039,04-06-2025
+892,892,Lunch,"Paneer Butter Masala, Hakka Noodles, Burrito, Caesar Salad",968,15-06-2025
+893,893,Breakfast,"Biryani, Pad Thai, Fish and Chips",764,09-06-2025
+894,894,Breakfast,"Porridge, Fried Rice",496,23-05-2025
+895,895,Lunch,"Omelette, Quesadilla, Lemon Rice, Manchurian",827,29-05-2025
+896,896,Lunch,"Sambar Rice, Poha, Mutton Rogan Josh, Beef Steak, Grilled Chicken",1045,01-06-2025
+897,897,Snack,"Burger, Mac and Cheese, Pizza, Poha, Fruit Salad",248,25-05-2025
+898,898,Snack,"Mutton Rogan Josh, Boiled Egg",521,14-06-2025
+899,899,Dinner,"Mutton Rogan Josh, Hakka Noodles, Veg Sandwich",896,12-06-2025
+900,900,Dinner,"Coffee, Dal Tadka, Grilled Chicken, Smoothie Bowl, Tacos",1184,30-05-2025
+901,901,Snack,"Nachos, Burrito, Coffee, Hakka Noodles",230,23-05-2025
+902,902,Lunch,"Fried Rice, Manchurian",647,08-06-2025
+903,903,Snack,"Sambar Rice, Lassi, Quesadilla",372,01-06-2025
+904,904,Lunch,"Caesar Salad, Idli, Lemon Rice, Veg Sandwich, Poha",893,07-06-2025
+905,905,Dinner,"Tom Yum Soup, Burger, Pho",567,12-06-2025
+906,906,Breakfast,"Lassi, Vada",1135,15-06-2025
+907,907,Snack,"Hakka Noodles, Tandoori Chicken, Hot Dog, Muesli",119,09-06-2025
+908,908,Dinner,"Omelette, Green Tea",637,23-05-2025
+909,909,Dinner,"Masala Dosa, Cereal, Green Tea, Protein Shake",252,02-06-2025
+910,910,Snack,"Bibimbap, Pho, Chole Bhature",540,07-06-2025
+911,911,Lunch,"Cereal, Fish and Chips",575,22-05-2025
+912,912,Breakfast,"Fish and Chips, Rajma Chawal, Bibimbap, Sushi, Mac and Cheese",604,15-06-2025
+913,913,Breakfast,"Quesadilla, Green Tea, Butter Naan, Paneer Butter Masala, Tandoori Chicken",1091,25-05-2025
+914,914,Breakfast,"Upma, Omelette",728,11-06-2025
+915,915,Dinner,"Upma, Pav Bhaji",166,17-05-2025
+916,916,Breakfast,"Caesar Salad, Paneer Butter Masala, Tom Yum Soup, Vada, Quesadilla",133,19-05-2025
+917,917,Breakfast,"Porridge, Pasta Alfredo, Greek Salad",1172,17-05-2025
+918,918,Lunch,"Hot Dog, Lassi, Nachos",431,19-05-2025
+919,919,Snack,"Boiled Egg, Masala Dosa",893,19-05-2025
+920,920,Breakfast,"Lamb Chops, Upma",694,19-05-2025
+921,921,Dinner,"Buttermilk, Coffee",927,07-06-2025
+922,922,Breakfast,"Burger, Aloo Paratha",317,13-06-2025
+923,923,Breakfast,"Masala Dosa, Hakka Noodles, Ramen, Green Curry",1115,09-06-2025
+924,924,Dinner,"Nachos, Biryani, Mac and Cheese",881,10-06-2025
+925,925,Lunch,"Upma, Butter Naan, Buttermilk, Masala Dosa",506,09-06-2025
+926,926,Lunch,"Lemon Rice, Sushi, Tom Yum Soup",304,22-05-2025
+927,927,Lunch,"Hakka Noodles, Yogurt, Aloo Paratha",201,28-05-2025
+928,928,Dinner,"Fried Rice, Butter Naan, Nachos",1110,18-05-2025
+929,929,Snack,"Pizza, Fried Rice, Green Curry, Cereal",853,22-05-2025
+930,930,Snack,"Nachos, Burger, Idli, Sushi, Quesadilla",979,22-05-2025
+931,931,Lunch,"Green Tea, Lemon Rice",984,30-05-2025
+932,932,Lunch,"Sambar Rice, Tacos",602,13-06-2025
+933,933,Lunch,"Hakka Noodles, Lassi",1065,27-05-2025
+934,934,Lunch,"Tempura, Chicken Wrap, Spring Rolls, Smoothie Bowl, Pasta Alfredo",1032,06-06-2025
+935,935,Lunch,"Scrambled Egg, Caesar Salad",719,05-06-2025
+936,936,Snack,"Muesli, Yogurt, Milkshake, Nachos",326,26-05-2025
+937,937,Dinner,"Cereal, Chole Bhature, Bibimbap",1148,18-05-2025
+938,938,Snack,"Fried Rice, Kadhi Pakora, French Fries, Omelette, Quesadilla",110,23-05-2025
+939,939,Snack,"Protein Shake, Palak Paneer, Burger, Greek Salad, Buttermilk",371,23-05-2025
+940,940,Snack,"Omelette, Hakka Noodles, Tempura, Pasta Alfredo",681,01-06-2025
+941,941,Dinner,"Ramen, Spaghetti Bolognese, Pasta Alfredo, Lamb Chops",230,26-05-2025
+942,942,Snack,"Buttermilk, Manchurian, Rajma Chawal",583,05-06-2025
+943,943,Lunch,"Grilled Chicken, Milkshake, Lamb Chops, Omelette",1064,04-06-2025
+944,944,Breakfast,"Coffee, Bibimbap, Palak Paneer, Mutton Rogan Josh, Lamb Chops",1195,20-05-2025
+945,945,Snack,"Fried Rice, Beef Steak",1195,11-06-2025
+946,946,Snack,"Spring Rolls, Vada, Hot Dog, Tom Yum Soup, Burrito",1016,29-05-2025
+947,947,Lunch,"Rajma Chawal, Butter Naan",1036,23-05-2025
+948,948,Lunch,"Masala Dosa, Lemon Rice, Kadhi Pakora, Grilled Chicken",1051,18-05-2025
+949,949,Snack,"Pav Bhaji, Quesadilla, Lemon Rice, Mac and Cheese, Dal Tadka",107,31-05-2025
+950,950,Snack,"Pizza, Lamb Chops, Boiled Egg",305,20-05-2025
+951,951,Lunch,"Lemon Rice, Upma, Manchurian, Burger",968,08-06-2025
+952,952,Lunch,"Cereal, Chicken Curry, Veg Sandwich, Upma",1083,23-05-2025
+953,953,Breakfast,"Chicken Curry, Pav Bhaji, Spring Rolls, Hakka Noodles, Pasta Alfredo",430,22-05-2025
+954,954,Dinner,"Kadhi Pakora, Veg Sandwich",1065,29-05-2025
+955,955,Breakfast,"French Fries, Beef Steak",993,19-05-2025
+956,956,Snack,"Green Curry, Cereal",199,13-06-2025
+957,957,Lunch,"Sushi, Beef Steak",237,11-06-2025
+958,958,Lunch,"Tandoori Chicken, Pad Thai, Greek Salad",847,19-05-2025
+959,959,Breakfast,"Palak Paneer, Ramen",136,24-05-2025
+960,960,Snack,"Nachos, Pasta Alfredo, Vada, Green Tea, Spring Rolls",145,10-06-2025
+961,961,Dinner,"Spring Rolls, Fish and Chips",580,09-06-2025
+962,962,Dinner,"Tempura, Sambar Rice, Boiled Egg, Coffee, Caesar Salad",862,02-06-2025
+963,963,Breakfast,"French Fries, Lassi, Chicken Curry",450,06-06-2025
+964,964,Lunch,"French Fries, Fried Rice, Chole Bhature",286,30-05-2025
+965,965,Snack,"Green Tea, Pad Thai, Manchurian",648,04-06-2025
+966,966,Snack,"Pasta Alfredo, Mutton Rogan Josh, Sambar Rice, Nachos",946,04-06-2025
+967,967,Breakfast,"Veg Sandwich, Green Curry",688,08-06-2025
+968,968,Dinner,"Protein Shake, Hakka Noodles",1118,15-06-2025
+969,969,Snack,"Lamb Chops, Nachos, Mac and Cheese, Tempura",1063,01-06-2025
+970,970,Snack,"Lamb Chops, Muesli, Pho",969,20-05-2025
+971,971,Dinner,"Lamb Chops, Lassi",847,09-06-2025
+972,972,Snack,"Idli, Tandoori Chicken, Quesadilla, Spring Rolls",243,15-06-2025
+973,973,Dinner,"Fried Rice, Green Tea, Tandoori Chicken, French Fries, Milkshake",728,02-06-2025
+974,974,Dinner,"Smoothie Bowl, Sushi, Beef Steak",848,14-06-2025
+975,975,Lunch,"Hakka Noodles, Hot Dog, Tempura",116,08-06-2025
+976,976,Breakfast,"Pav Bhaji, Hot Dog, Greek Salad, Rajma Chawal, Lassi",776,08-06-2025
+977,977,Breakfast,"Hot Dog, Pav Bhaji, Butter Naan, Biryani",481,09-06-2025
+978,978,Dinner,"Biryani, French Fries, Paneer Butter Masala, Tacos, Boiled Egg",694,04-06-2025
+979,979,Snack,"Cereal, Butter Naan, Pizza, Hakka Noodles",629,20-05-2025
+980,980,Dinner,"Green Tea, Boiled Egg, Protein Shake",615,21-05-2025
+981,981,Snack,"Caesar Salad, Kadhi Pakora, Green Tea",271,12-06-2025
+982,982,Dinner,"Nachos, Burrito",1072,05-06-2025
+983,983,Dinner,"Hot Dog, Tempura, Tacos, Grilled Chicken",1028,22-05-2025
+984,984,Dinner,"Spaghetti Bolognese, Pad Thai, Hakka Noodles, Spring Rolls",208,24-05-2025
+985,985,Snack,"Sambar Rice, Cereal, Grilled Chicken",105,12-06-2025
+986,986,Breakfast,"Lassi, Caesar Salad, Grilled Chicken",883,20-05-2025
+987,987,Breakfast,"Dal Tadka, Hakka Noodles, Tempura, Chicken Wrap",189,03-06-2025
+988,988,Dinner,"Green Tea, Smoothie Bowl, Milkshake, Poha",788,08-06-2025
+989,989,Breakfast,"Coffee, Chicken Curry",396,25-05-2025
+990,990,Lunch,"Tandoori Chicken, Chicken Wrap, Nachos",134,17-05-2025
+991,991,Breakfast,"Buttermilk, Poha, Lassi, Green Tea",337,28-05-2025
+992,992,Breakfast,"Mutton Rogan Josh, Tom Yum Soup",667,06-06-2025
+993,993,Lunch,"Ramen, Biryani, Fruit Salad, Tom Yum Soup",372,12-06-2025
+994,994,Lunch,"Coffee, Lamb Chops, Tempura, Dal Tadka",908,03-06-2025
+995,995,Snack,"Greek Salad, Fruit Salad",1195,19-05-2025
+996,996,Dinner,"Fish and Chips, Fruit Salad, Tacos",570,22-05-2025
+997,997,Breakfast,"Upma, Greek Salad, Kadhi Pakora, Hakka Noodles",986,01-06-2025
+998,998,Lunch,"Sambar Rice, Lamb Chops",114,24-05-2025
+999,999,Dinner,"Spring Rolls, Scrambled Egg, Aloo Paratha, Poha",352,20-05-2025
+1000,1000,Lunch,"Omelette, Grilled Chicken",401,21-05-2025
